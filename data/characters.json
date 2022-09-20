@@ -1,0 +1,13 @@
+{
+    "characters": [
+        {
+            "id" : "1",
+            "name" : "Izuku Midoriya",
+            "name_japanese" : "緑谷 出久",
+            "other_names" : ["Deku"],
+            "quirk" : "One for All",
+            "quirk_japanese" : "ワン・フォー・オール",
+            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+        }
+    ]
+}
