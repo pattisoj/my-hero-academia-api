@@ -7,7 +7,43 @@
             "other_names" : ["Deku"],
             "quirk" : "One for All",
             "quirk_japanese" : "ワン・フォー・オール",
-            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability."
+        },
+        {
+            "id" : "2",
+            "name" : "Katsuki Bakugo",
+            "name_japanese" : "爆豪 勝己",
+            "other_names" : ["Kacchan", "Dynamight"],
+            "quirk" : "Explosion",
+            "quirk_japanese" : "爆破",
+            "quirk_description" : "Secretes sweat with nitroglycerin-like properties from his hands and can ignite it on command to produce powerful explosions."
+        },
+        {
+            "id" : "3",
+            "name" : "Ochaco Uraraka",
+            "name_japanese" : "麗日 お茶子",
+            "other_names" : ["Uravity"],
+            "quirk" : "Zero Gravity",
+            "quirk_japanese" : "無重力",
+            "quirk_description" : "She can make any object weightless by touching them with the pads on her fingertips. Overuse of her Quirk will cause her to suffer from severe nausea."
+        },
+        {
+            "id" : "4",
+            "name" : "Tenya Ida",
+            "name_japanese" : "飯田 天哉",
+            "other_names" : ["Ingenium"],
+            "quirk" : "Engine",
+            "quirk_japanese" : "エンジン",
+            "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves"
+        },
+        {
+            "id" : "5",
+            "name" : "Shoto Todoroki",
+            "name_japanese" : "轟 焦凍",
+            "other_names" : ["Shoto"],
+            "quirk" : "Half-Cold Half-Hot",
+            "quirk_japanese" : "半冷半燃",
+            "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left"
         }
     ]
 }
