@@ -36,7 +36,7 @@
             "other_names" : ["Ingenium"],
             "quirk" : "Engine",
             "quirk_japanese" : "エンジン",
-            "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves",
+            "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves.",
             "class" : "Class 1-A"
         },
         {
@@ -46,8 +46,57 @@
             "other_names" : ["Shoto"],
             "quirk" : "Half-Cold Half-Hot",
             "quirk_japanese" : "半冷半燃",
-            "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left",
+            "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "6",
+            "name" : "Eijiro Kirishima",
+            "name_japanese" : "切島 鋭児郎",
+            "other_names" : ["Red Riot"],
+            "quirk" : "Hardening",
+            "quirk_japanese" : "硬化",
+            "quirk_description" : "Enables him to harden his body.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "7",
+            "name" : "Tsuyu Asui",
+            "name_japanese" : "蛙吹 梅雨",
+            "other_names" : ["Tsu", "Froppy"],
+            "quirk" : "Frog",
+            "quirk_japanese" : "蛙",
+            "quirk_description" : "Gives her frog-like abilities such as enhanced swimming and jumping, sticking to and climbing up walls, and a long prehensile tongue.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "8",
+            "name" : "Momo Yaoyorozu",
+            "name_japanese" : "八百万 百",
+            "other_names" : ["Creati"],
+            "quirk" : "Creation",
+            "quirk_japanese" : "創造",
+            "quirk_description" : "Enables her the ability to create any non-biological object from the lipids stored in her body as long as she knows its molecular structure.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "9",
+            "name" : "Minoru Mineta",
+            "name_japanese" : "峰田 実",
+            "other_names" : ["Grape Juice"],
+            "quirk" : "Pop Off",
+            "quirk_japanese" : "もぎもぎ",
+            "quirk_description" : "He grows many small, highly adhesive grape-like balls on his head that he can remove and use as weapons. He can also use the balls as his personal trampolines, as they bounce off his body instead of sticking to him.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "10",
+            "name" : "Denki Kaminari",
+            "name_japanese" : "上鳴 電気",
+            "other_names" : ["Chargebolt"],
+            "quirk" : "Electrification",
+            "quirk_japanese" : "帯電",
+            "quirk_description" : "Enables him the ability to absorb and emit electricity.",
             "class" : "Class 1-A"
         }
-    
 ]}
