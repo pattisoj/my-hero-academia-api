@@ -148,5 +148,55 @@
             "quirk_japanese" : "複製腕",
             "quirk_description" : "Enables him to grow individual body organs at the tips of the four webbed tentacles growing from his shoulders.",
             "class" : "Class 1-A"
+        },
+        {
+            "id" : "16",
+            "name" : "Hanta Sero",
+            "name_japanese" : "瀬呂 範太",
+            "other_names" : ["Cellophane"],
+            "quirk" : "Tape",
+            "quirk_japanese" : "テープ",
+            "quirk_description" : "Enables him to shoot cellophane tape from the tape dispenser-like organs on his elbows.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "17",
+            "name" : "Mashirao Ojiro",
+            "name_japanese" : "尾白 猿夫",
+            "other_names" : ["Tailman"],
+            "quirk" : "Tail",
+            "quirk_japanese" : "尻尾",
+            "quirk_description" : "Grants him a thick prehensile tail.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "18",
+            "name" : "Koji Koda",
+            "name_japanese" : "口田 甲司",
+            "other_names" : ["Anima"],
+            "quirk" : "Anivoice",
+            "quirk_japanese" : "生き物ボイス",
+            "quirk_description" : "Allows him to talk to animals.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "19",
+            "name" : "Rikido Sato",
+            "name_japanese" : "砂藤 力道",
+            "other_names" : ["Sugarman"],
+            "quirk" : "Sugar Rush",
+            "quirk_japanese" : "シュガードープ",
+            "quirk_description" : "Enhances his physical strength at the cost of his cognitive functions whenever he consumes sugar. ",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "20",
+            "name" : "Toru Hagakure",
+            "name_japanese" : "葉隠 透",
+            "other_names" : ["Invisible Girl"],
+            "quirk" : "Invisibility",
+            "quirk_japanese" : "透明化",
+            "quirk_description" : "Makes her entire body invisible and gives her the ability to refract light.",
+            "class" : "Class 1-A"
         }
 ]}
