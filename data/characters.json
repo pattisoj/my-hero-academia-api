@@ -98,5 +98,55 @@
             "quirk_japanese" : "帯電",
             "quirk_description" : "Enables him the ability to absorb and emit electricity.",
             "class" : "Class 1-A"
+        },
+        {
+            "id" : "11",
+            "name" : "Kyoka Jiro",
+            "name_japanese" : "耳郎 響香",
+            "other_names" : ["Earphone Jack"],
+            "quirk" : "Earphone Jack",
+            "quirk_japanese" : "イヤホンジャック",
+            "quirk_description" : "Enables her to plug her extremely long earlobes into objects to hear minuscule sounds and vibrations from her surroundings or channel the sound of her own heartbeat in the form of sonic attacks.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "12",
+            "name" : "Fumikage Tokoyami",
+            "name_japanese" : "常闇 踏陰",
+            "other_names" : ["Tsukuyomi"],
+            "quirk" : "Dark Shadow",
+            "quirk_japanese" : "黒影",
+            "quirk_description" : "Enables him to manifest and control a sentient shadow monster from his body that grows more powerful in the dark.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "13",
+            "name" : "Mina Ashido",
+            "name_japanese" : "芦戸 三奈",
+            "other_names" : ["Pinky"],
+            "quirk" : "Acid",
+            "quirk_japanese" : "酸",
+            "quirk_description" : "Enables her to secrete an acidic fluid from her body.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "14",
+            "name" : "Yuga Aoyama",
+            "name_japanese" : "青山 優雅",
+            "other_names" : ["Can't Stop Twinkling"],
+            "quirk" : "Navel Laser",
+            "quirk_japanese" : "ネビルレーザー",
+            "quirk_description" : "Enables him to fire a laser blast from his belly button.",
+            "class" : "Class 1-A"
+        },
+        {
+            "id" : "15",
+            "name" : "Mezo Shoji",
+            "name_japanese" : "障子 目蔵",
+            "other_names" : ["Tentacole"],
+            "quirk" : "Dupli-Arms",
+            "quirk_japanese" : "複製腕",
+            "quirk_description" : "Enables him to grow individual body organs at the tips of the four webbed tentacles growing from his shoulders.",
+            "class" : "Class 1-A"
         }
 ]}
