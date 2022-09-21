@@ -1,5 +1,4 @@
-{
-    "characters": [
+{"students": [
         {
             "id" : "1",
             "name" : "Izuku Midoriya",
@@ -45,5 +44,5 @@
             "quirk_japanese" : "半冷半燃",
             "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left"
         }
-    ]
-}
+    
+]}
