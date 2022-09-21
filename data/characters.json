@@ -6,7 +6,8 @@
             "other_names" : ["Deku"],
             "quirk" : "One for All",
             "quirk_japanese" : "ワン・フォー・オール",
-            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability."
+            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+            "class" : "Class 1-A"
         },
         {
             "id" : "2",
@@ -15,7 +16,8 @@
             "other_names" : ["Kacchan", "Dynamight"],
             "quirk" : "Explosion",
             "quirk_japanese" : "爆破",
-            "quirk_description" : "Secretes sweat with nitroglycerin-like properties from his hands and can ignite it on command to produce powerful explosions."
+            "quirk_description" : "Secretes sweat with nitroglycerin-like properties from his hands and can ignite it on command to produce powerful explosions.",
+            "class" : "Class 1-A"
         },
         {
             "id" : "3",
@@ -24,7 +26,8 @@
             "other_names" : ["Uravity"],
             "quirk" : "Zero Gravity",
             "quirk_japanese" : "無重力",
-            "quirk_description" : "She can make any object weightless by touching them with the pads on her fingertips. Overuse of her Quirk will cause her to suffer from severe nausea."
+            "quirk_description" : "She can make any object weightless by touching them with the pads on her fingertips. Overuse of her Quirk will cause her to suffer from severe nausea.",
+            "class" : "Class 1-A"
         },
         {
             "id" : "4",
@@ -33,7 +36,8 @@
             "other_names" : ["Ingenium"],
             "quirk" : "Engine",
             "quirk_japanese" : "エンジン",
-            "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves"
+            "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves",
+            "class" : "Class 1-A"
         },
         {
             "id" : "5",
@@ -42,7 +46,8 @@
             "other_names" : ["Shoto"],
             "quirk" : "Half-Cold Half-Hot",
             "quirk_japanese" : "半冷半燃",
-            "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left"
+            "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left",
+            "class" : "Class 1-A"
         }
     
 ]}
