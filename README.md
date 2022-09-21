@@ -50,7 +50,7 @@ This full-stack application was created as a passion project. I began collecting
 
 ### Built with
 
-<!-- This should contain badges of the techologies I have used -->
+<!-- This should contain badges of the technologies I have used -->
 
 -
 -
