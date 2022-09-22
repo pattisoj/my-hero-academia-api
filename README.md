@@ -131,8 +131,8 @@ Project Link - [https://github.com/pattisoj/my-hero-academia-api](https://github
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+- [My Hero Academia](https://www.imdb.com/title/tt5626028/)
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters)
+- [My Hero Academia Wiki](https://myheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
