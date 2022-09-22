@@ -82,6 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Deployment
   - [ ] CI/CD Pipelines
+  - [ ] Contribution guides
 - [ ] Data for all characters
   - [ ] Students
   - [ ] Villains
@@ -102,7 +103,7 @@ See the [open issues](https://github.com/pattisoj/my-hero-academia-api/issues) f
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Ensure you give a description of your changes.
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -121,11 +122,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Twitter -
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_pattisoj)
 
-Linkedin -
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-pattison/)
 
-Project Link - [https://github.com/pattisoj/my-hero-academia-api](https://github.com/pattisoj/my-hero-academia-api)
+[![Portfolio](https://img.shields.io/badge/portfolio-006699?style=for-the-badge&logo=About.me&logoColor=white)](https://joshpattison.com/)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
