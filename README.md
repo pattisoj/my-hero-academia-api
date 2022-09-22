@@ -46,7 +46,7 @@
 
 <!-- Screenshot / gif of the project here -->
 
-This full-stack application was created as a passion project. I began collecting manga at the start of 2022 and wanted to create a place where I could track my collection and at the same time practice and improve my coding ability.
+This fan-made API was created as a passion project. I really enjoy anime and one of my recent favorites has been My Hero Academia, I decided I wanted to create something for it and for it's fan base so I decided to create this API.
 
 ### Built with
 
