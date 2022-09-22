@@ -20,6 +20,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
     </li>
     <li>
       <a href="#usage">Usage</a>
@@ -64,17 +68,41 @@ This fan-made API was created as a passion project. I really enjoy anime and one
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+To use this project you will need a node package manager installed. Visit the [npm documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for a more detailed guide.
+
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/pattisoj/my-hero-academia-api.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the api locally
+   ```sh
+   npm start
+   ```
+   _NOTE - When running locally this API will use `http://localhost:3000/`. If you need to change this for any reason the port can be found in `.bin/www.js`. Do not commit any port changes on a pull request._
 
 <!-- Need some specifics for the project here -->
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+_This space is a work in progress and will be updated once the API is deployed._
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
