@@ -50,11 +50,15 @@ This fan-made API was created as a passion project. I really enjoy anime and one
 
 ### Built with
 
-<!-- This should contain badges of the technologies I have used -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
--
--
--
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
