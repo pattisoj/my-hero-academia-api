@@ -60,6 +60,8 @@ This fan-made API was created as a passion project. I really enjoy anime and one
 
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -108,7 +110,7 @@ _This space is a work in progress and will be updated once the API is deployed._
 
 ## Roadmap
 
-- [ ] Deployment
+- [x] Deployment
   - [ ] CI/CD Pipelines
   - [ ] Contribution guides
 - [ ] Data for all characters
@@ -155,6 +157,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-pattison/)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-006699?style=for-the-badge&logo=About.me&logoColor=white)](https://joshpattison.com/)
+
+[![ProjectLink](https://img.shields.io/badge/Project_Link-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://myheroacademia-api.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
