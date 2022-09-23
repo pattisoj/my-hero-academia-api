@@ -108,7 +108,7 @@ _This space is a work in progress and will be updated once the API is deployed._
 
 ## Roadmap
 
-- [ ] Deployment
+- [x] Deployment
   - [ ] CI/CD Pipelines
   - [ ] Contribution guides
 - [ ] Data for all characters
