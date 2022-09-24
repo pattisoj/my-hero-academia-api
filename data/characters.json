@@ -198,5 +198,55 @@
             "quirk_japanese" : "透明化",
             "quirk_description" : "Makes her entire body invisible and gives her the ability to refract light.",
             "class" : "Class 1-A"
+        },
+        {
+            "id" : "21",
+            "name" : "Neito Monoma",
+            "name_japanese" : "物間 寧人",
+            "other_names" : ["Phantom Thief"],
+            "quirk" : "Copy",
+            "quirk_japanese" : "コピー",
+            "quirk_description" : "Allows him to temporarily duplicate and use another person's Quirk by simply touching them. He can store four Quirks, but can only activate one at a time.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "22",
+            "name" : "Itsuka Kendo",
+            "name_japanese" : "拳藤 一佳",
+            "other_names" : ["Battle Fist"],
+            "quirk" : "Large Fists",
+            "quirk_japanese" : "大拳",
+            "quirk_description" : "Enables her to enlarge her fists.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "23",
+            "name" : "Ibara Shiozaki",
+            "name_japanese" : "塩崎 茨",
+            "other_names" : ["Vine"],
+            "quirk" : "Vines",
+            "quirk_japanese" : "ツル",
+            "quirk_description" : "Gives her a head of vines instead of hair that she can extend and use in combat.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "24",
+            "name" : "Tetsutetsu Tetsutetsu",
+            "name_japanese" : "鉄哲 徹鐵",
+            "other_names" : ["Real Steel"],
+            "quirk" : "Steel",
+            "quirk_japanese" : "スティール",
+            "quirk_description" : "Gives him the ability to turn his skin to steel.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "25",
+            "name" : "Juzo Honenuki",
+            "name_japanese" : "骨抜 柔造",
+            "other_names" : ["Mudman"],
+            "quirk" : "Softening",
+            "quirk_japanese" : "柔化",
+            "quirk_description" : "Enables him to soften anything that he touches.",
+            "class" : "Class 1-B"
         }
 ]}
