@@ -348,5 +348,55 @@
             "quirk_japanese" : "キノコ",
             "quirk_description" : "Grants her the ability to create spores from her cells, allowing her to grow mushrooms from the surfaces of her surroundings.",
             "class" : "Class 1-B"
+        },
+        {
+            "id" : "36",
+            "name" : "Togaru Kamakiri",
+            "name_japanese" : "鎌切 尖",
+            "other_names" : ["Jack Mantis"],
+            "quirk" : "Razor Sharp",
+            "quirk_japanese" : "刃鋭",
+            "quirk_description" : "Grants him the ability to produce large, sharp blades from all over his body.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "37",
+            "name" : "Pony Tsunotori",
+            "name_japanese" : "角取 ポニー",
+            "other_names" : ["Rocketti"],
+            "quirk" : "Horn Cannon",
+            "quirk_japanese" : "ホーンホウ",
+            "quirk_description" : "Allows her to grow effectively gazelle-like horns on her head and control them.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "38",
+            "name" : "Setsuna Tokage",
+            "name_japanese" : "取蔭 切奈",
+            "other_names" : ["Lizardy"],
+            "quirk" : "Lizard Tail Splitter",
+            "quirk_japanese" : "トカゲのしっぽ切り",
+            "quirk_description" : "Allows her to split her body into several pieces and control them telekinetically.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "39",
+            "name" : "Shihai Kuroiro",
+            "name_japanese" : "黒色 支配",
+            "other_names" : ["Vantablack"],
+            "quirk" : "Black",
+            "quirk_japanese" : "黒",
+            "quirk_description" : "Grants him the ability to merge into anything that is black-colored and control it.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "40",
+            "name" : "Manga Fukidashi",
+            "name_japanese" : "吹出 漫我",
+            "other_names" : ["Comicman"],
+            "quirk" : "Comic",
+            "quirk_japanese" : "コミック",
+            "quirk_description" : "Allows him to manifest different onomatopoeias into reality in the form of katakana.",
+            "class" : "Class 1-B"
         }
 ]}
