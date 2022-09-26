@@ -298,5 +298,55 @@
             "quirk_japanese" : "セメダイン",
             "quirk_description" : "Enables him to excrete a glue-like liquid from seven eyeholes on his glue dispenser-shaped head.",
             "class" : "Class 1-B"
+        },
+        {
+            "id" : "31",
+            "name" : "Reiko Yanagi",
+            "name_japanese" : "柳 レイ子",
+            "other_names" : ["Emily"],
+            "quirk" : "Poltergeist",
+            "quirk_japanese" : "ポルターガイスト",
+            "quirk_description" : "Grants her the ability to telekinetically manipulate objects around her.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "32",
+            "name" : "Jurota Shishida",
+            "name_japanese" : "宍田 獣郎太",
+            "other_names" : ["Gevaudan"],
+            "quirk" : "Beast",
+            "quirk_japanese" : "ビースト",
+            "quirk_description" : "Grants him the ability to transform into a monstrous beast.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "33",
+            "name" : "Yui Kodai",
+            "name_japanese" : "小大 唯",
+            "other_names" : ["Rule"],
+            "quirk" : "Size",
+            "quirk_japanese" : "サイズ",
+            "quirk_description" : "Enables her to change the size of any object she interacts with.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "34",
+            "name" : "Hiryu Rin",
+            "name_japanese" : "鱗 飛竜",
+            "other_names" : ["Dragon Shroud"],
+            "quirk" : "Scales",
+            "quirk_japanese" : "鱗",
+            "quirk_description" : "Enables him to form scales on his body for combat and other purposes. He can also shoot the scales.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "35",
+            "name" : "Kinoko Komori",
+            "name_japanese" : "小森 希乃子",
+            "other_names" : ["Shemage"],
+            "quirk" : "Mushroom",
+            "quirk_japanese" : "キノコ",
+            "quirk_description" : "Grants her the ability to create spores from her cells, allowing her to grow mushrooms from the surfaces of her surroundings.",
+            "class" : "Class 1-B"
         }
 ]}
