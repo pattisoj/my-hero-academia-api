@@ -248,5 +248,55 @@
             "quirk_japanese" : "柔化",
             "quirk_description" : "Enables him to soften anything that he touches.",
             "class" : "Class 1-B"
+        },
+        {
+            "id" : "26",
+            "name" : "Nirengeki Shoda",
+            "name_japanese" : "庄田 二連撃",
+            "other_names" : ["Mindz"],
+            "quirk" : "Twin Impact",
+            "quirk_japanese" : "ツインインパクト",
+            "quirk_description" : "At the site of an initial impact he can create a second impact, which he can activate anytime.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "27",
+            "name" : "Yosetsu Awase",
+            "name_japanese" : "泡瀬 洋雪",
+            "other_names" : ["Welder"],
+            "quirk" : "Weld",
+            "quirk_japanese" : "溶接",
+            "quirk_description" : "Allows him to physically connect anything he touches.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "28",
+            "name" : "Kosei Tsuburaba",
+            "name_japanese" : "円場 硬成",
+            "other_names" : ["Tsubaraba"],
+            "quirk" : "Solid Air",
+            "quirk_japanese" : "空気凝固",
+            "quirk_description" : "Enables him to solidify air into a wall or platform.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "29",
+            "name" : "Sen Kaibara",
+            "name_japanese" : "回原 旋",
+            "other_names" : ["Spiral"],
+            "quirk" : "Gyrate",
+            "quirk_japanese" : "旋回",
+            "quirk_description" : "Allows him to rotate any part of his body at incredibly high speeds, similarly to a drill.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "30",
+            "name" : "Kojiro Bondo",
+            "name_japanese" : "凡戸 固次郎",
+            "other_names" : ["Plamo"],
+            "quirk" : "Cemedine",
+            "quirk_japanese" : "セメダイン",
+            "quirk_description" : "Enables him to excrete a glue-like liquid from seven eyeholes on his glue dispenser-shaped head.",
+            "class" : "Class 1-B"
         }
 ]}
