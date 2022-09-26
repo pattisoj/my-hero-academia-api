@@ -198,5 +198,205 @@
             "quirk_japanese" : "透明化",
             "quirk_description" : "Makes her entire body invisible and gives her the ability to refract light.",
             "class" : "Class 1-A"
+        },
+        {
+            "id" : "21",
+            "name" : "Neito Monoma",
+            "name_japanese" : "物間 寧人",
+            "other_names" : ["Phantom Thief"],
+            "quirk" : "Copy",
+            "quirk_japanese" : "コピー",
+            "quirk_description" : "Allows him to temporarily duplicate and use another person's Quirk by simply touching them. He can store four Quirks, but can only activate one at a time.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "22",
+            "name" : "Itsuka Kendo",
+            "name_japanese" : "拳藤 一佳",
+            "other_names" : ["Battle Fist"],
+            "quirk" : "Large Fists",
+            "quirk_japanese" : "大拳",
+            "quirk_description" : "Enables her to enlarge her fists.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "23",
+            "name" : "Ibara Shiozaki",
+            "name_japanese" : "塩崎 茨",
+            "other_names" : ["Vine"],
+            "quirk" : "Vines",
+            "quirk_japanese" : "ツル",
+            "quirk_description" : "Gives her a head of vines instead of hair that she can extend and use in combat.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "24",
+            "name" : "Tetsutetsu Tetsutetsu",
+            "name_japanese" : "鉄哲 徹鐵",
+            "other_names" : ["Real Steel"],
+            "quirk" : "Steel",
+            "quirk_japanese" : "スティール",
+            "quirk_description" : "Gives him the ability to turn his skin to steel.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "25",
+            "name" : "Juzo Honenuki",
+            "name_japanese" : "骨抜 柔造",
+            "other_names" : ["Mudman"],
+            "quirk" : "Softening",
+            "quirk_japanese" : "柔化",
+            "quirk_description" : "Enables him to soften anything that he touches.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "26",
+            "name" : "Nirengeki Shoda",
+            "name_japanese" : "庄田 二連撃",
+            "other_names" : ["Mindz"],
+            "quirk" : "Twin Impact",
+            "quirk_japanese" : "ツインインパクト",
+            "quirk_description" : "At the site of an initial impact he can create a second impact, which he can activate anytime.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "27",
+            "name" : "Yosetsu Awase",
+            "name_japanese" : "泡瀬 洋雪",
+            "other_names" : ["Welder"],
+            "quirk" : "Weld",
+            "quirk_japanese" : "溶接",
+            "quirk_description" : "Allows him to physically connect anything he touches.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "28",
+            "name" : "Kosei Tsuburaba",
+            "name_japanese" : "円場 硬成",
+            "other_names" : ["Tsubaraba"],
+            "quirk" : "Solid Air",
+            "quirk_japanese" : "空気凝固",
+            "quirk_description" : "Enables him to solidify air into a wall or platform.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "29",
+            "name" : "Sen Kaibara",
+            "name_japanese" : "回原 旋",
+            "other_names" : ["Spiral"],
+            "quirk" : "Gyrate",
+            "quirk_japanese" : "旋回",
+            "quirk_description" : "Allows him to rotate any part of his body at incredibly high speeds, similarly to a drill.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "30",
+            "name" : "Kojiro Bondo",
+            "name_japanese" : "凡戸 固次郎",
+            "other_names" : ["Plamo"],
+            "quirk" : "Cemedine",
+            "quirk_japanese" : "セメダイン",
+            "quirk_description" : "Enables him to excrete a glue-like liquid from seven eyeholes on his glue dispenser-shaped head.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "31",
+            "name" : "Reiko Yanagi",
+            "name_japanese" : "柳 レイ子",
+            "other_names" : ["Emily"],
+            "quirk" : "Poltergeist",
+            "quirk_japanese" : "ポルターガイスト",
+            "quirk_description" : "Grants her the ability to telekinetically manipulate objects around her.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "32",
+            "name" : "Jurota Shishida",
+            "name_japanese" : "宍田 獣郎太",
+            "other_names" : ["Gevaudan"],
+            "quirk" : "Beast",
+            "quirk_japanese" : "ビースト",
+            "quirk_description" : "Grants him the ability to transform into a monstrous beast.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "33",
+            "name" : "Yui Kodai",
+            "name_japanese" : "小大 唯",
+            "other_names" : ["Rule"],
+            "quirk" : "Size",
+            "quirk_japanese" : "サイズ",
+            "quirk_description" : "Enables her to change the size of any object she interacts with.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "34",
+            "name" : "Hiryu Rin",
+            "name_japanese" : "鱗 飛竜",
+            "other_names" : ["Dragon Shroud"],
+            "quirk" : "Scales",
+            "quirk_japanese" : "鱗",
+            "quirk_description" : "Enables him to form scales on his body for combat and other purposes. He can also shoot the scales.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "35",
+            "name" : "Kinoko Komori",
+            "name_japanese" : "小森 希乃子",
+            "other_names" : ["Shemage"],
+            "quirk" : "Mushroom",
+            "quirk_japanese" : "キノコ",
+            "quirk_description" : "Grants her the ability to create spores from her cells, allowing her to grow mushrooms from the surfaces of her surroundings.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "36",
+            "name" : "Togaru Kamakiri",
+            "name_japanese" : "鎌切 尖",
+            "other_names" : ["Jack Mantis"],
+            "quirk" : "Razor Sharp",
+            "quirk_japanese" : "刃鋭",
+            "quirk_description" : "Grants him the ability to produce large, sharp blades from all over his body.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "37",
+            "name" : "Pony Tsunotori",
+            "name_japanese" : "角取 ポニー",
+            "other_names" : ["Rocketti"],
+            "quirk" : "Horn Cannon",
+            "quirk_japanese" : "ホーンホウ",
+            "quirk_description" : "Allows her to grow effectively gazelle-like horns on her head and control them.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "38",
+            "name" : "Setsuna Tokage",
+            "name_japanese" : "取蔭 切奈",
+            "other_names" : ["Lizardy"],
+            "quirk" : "Lizard Tail Splitter",
+            "quirk_japanese" : "トカゲのしっぽ切り",
+            "quirk_description" : "Allows her to split her body into several pieces and control them telekinetically.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "39",
+            "name" : "Shihai Kuroiro",
+            "name_japanese" : "黒色 支配",
+            "other_names" : ["Vantablack"],
+            "quirk" : "Black",
+            "quirk_japanese" : "黒",
+            "quirk_description" : "Grants him the ability to merge into anything that is black-colored and control it.",
+            "class" : "Class 1-B"
+        },
+        {
+            "id" : "40",
+            "name" : "Manga Fukidashi",
+            "name_japanese" : "吹出 漫我",
+            "other_names" : ["Comicman"],
+            "quirk" : "Comic",
+            "quirk_japanese" : "コミック",
+            "quirk_description" : "Allows him to manifest different onomatopoeias into reality in the form of katakana.",
+            "class" : "Class 1-B"
         }
 ]}
