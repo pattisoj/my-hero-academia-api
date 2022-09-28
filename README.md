@@ -27,6 +27,9 @@
     </li>
     <li>
       <a href="#usage">Usage</a>
+      <ul>
+      <li><a href="#endpoints">Endpoints</a></li>
+      </ul>
     </li>
     <li>
       <a href="#roadmap">Roadmap</a>
@@ -102,7 +105,31 @@ To use this project you will need a node package manager installed. Visit the [n
 
 ## Usage
 
-_This space is a work in progress and will be updated once the API is deployed._
+_This space will be updated alongside the development of the API._
+
+Requests can be made with curl or other helper libraries by following regular REST calls. For example, here is how to GET the all of the character data:
+
+`curl https://myheroacademia-api.herokuapp.com/characters`
+
+Calling this resource will respond with an array containing objects with the following structure:
+
+```json
+{
+  "id": "1",
+  "name": "Izuku Midoriya",
+  "name_japanese": "緑谷 出久",
+  "other_names": ["Deku"],
+  "quirk": "One for All",
+  "quirk_japanese": "ワン・フォー・オール",
+  "quirk_description": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+  "class": "Class 1-A"
+}
+// Currently there is data for 40 students.
+```
+
+### Endpoints
+
+- Characters
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
