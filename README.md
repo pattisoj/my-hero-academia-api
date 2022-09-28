@@ -124,8 +124,8 @@ Calling this resource will respond with an array containing objects with the fol
   "quirk_description": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
   "class": "Class 1-A"
 }
-// Currently there is data for 40 students.
 ```
+Currently there is data for 40 students.
 
 ### Endpoints
 
