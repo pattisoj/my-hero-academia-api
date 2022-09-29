@@ -125,7 +125,8 @@ Calling this resource will respond with an array containing objects with the fol
   "class": "Class 1-A"
 }
 ```
-Currently there is data for 40 students.
+
+Currently there is data for all (_as of 29th September 2022_) 45 students.
 
 ### Endpoints
 
@@ -141,7 +142,7 @@ Currently there is data for 40 students.
   - [ ] CI/CD Pipelines
   - [ ] Contribution guides
 - [ ] Data for all characters
-  - [ ] Students
+  - [x] Students
   - [ ] Villains
   - [ ] Pro Heros
   - [ ] Other
