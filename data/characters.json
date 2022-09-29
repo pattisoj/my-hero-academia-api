@@ -398,5 +398,55 @@
             "quirk_japanese" : "コミック",
             "quirk_description" : "Allows him to manifest different onomatopoeias into reality in the form of katakana.",
             "class" : "Class 1-B"
+        },
+        {
+            "id" : "41",
+            "name" : "Mei Hatsume",
+            "name_japanese" : "発目 明",
+            "other_names" : [],
+            "quirk" : "Zoom",
+            "quirk_japanese" : "ズーム",
+            "quirk_description" : "Allows her to zoom her vision to up to 5 kilometers.",
+            "class" : "Class 1-H"
+        },
+        {
+            "id" : "42",
+            "name" : "Hitoshi Shinso",
+            "name_japanese" : "心操 人使",
+            "other_names" : [],
+            "quirk" : "Brainwashing",
+            "quirk_japanese" : "洗脳",
+            "quirk_description" : "Allows him to control those who answer his questions.",
+            "class" : "Origionally - General Course. Transfered to - Hero Course"
+        },
+        {
+            "id" : "43",
+            "name" : "Mirio Togata",
+            "name_japanese" : "通形 ミリオ",
+            "other_names" : ["Lemillion"],
+            "quirk" : "Permeation",
+            "quirk_japanese" : "透過",
+            "quirk_description" : "Allows him to phase his body through anything solid, including the ground itself.",
+            "class" : "Third year student / The Big 3"
+        },
+        {
+            "id" : "44",
+            "name" : "Tamaki Amajiki",
+            "name_japanese" : "天喰 環",
+            "other_names" : ["Suneater"],
+            "quirk" : "Manifest",
+            "quirk_japanese" : "再現",
+            "quirk_description" : "Gives him the characteristics and abilities of anything he eats.",
+            "class" : "Third year student / The Big 3"
+        },
+        {
+            "id" : "45",
+            "name" : "Nejire Hado",
+            "name_japanese" : "波動 ねじれ",
+            "other_names" : ["Nejire Chan"],
+            "quirk" : "Wave Motion",
+            "quirk_japanese" : "波動",
+            "quirk_description" : "Allows her to convert her stamina into energy and release it in the form of spiral shockwaves.",
+            "class" : "Third year student / The Big 3"
         }
 ]}
