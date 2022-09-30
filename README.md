@@ -139,7 +139,10 @@ Currently there is data for all (_as of 29th September 2022_) 45 students.
 ## Roadmap
 
 - [x] Deployment
-  - [x] CI/CD Pipelines
+- [ ] CI/CD Pipelines
+  - [x] Auto-deployment
+  - [x] Linting workflow
+  - [ ] Testing workflow
   - [ ] Contribution guides
 - [ ] Data for all characters
   - [x] Students
