@@ -1,6 +1,12 @@
 const request = require("supertest");
 const data = require("../data/characters.json");
 
+/*
+This test suite currently requires two terminals to be open -
+One runs the npm start command to run the API on localhost:3000 (this can be changed on const url).
+The Second runs the tests.
+*/
+
 describe("Characters API Route", () => {
   const url = "http://localhost:3000";
   const dataLength = data.students.length;
