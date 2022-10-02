@@ -1,0 +1,102 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "My Hero Academia API",
+    "description": "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
+  },
+  "servers": [
+    {
+      "url": "https://myheroacademia-api.herokuapp.com"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Endpoints",
+      "description": "Current API Endpoints"
+    }
+  ],
+  "paths": {
+    "/characters": {
+      "get": {
+        "tags": [
+          "Endpoints"
+        ],
+        "description": "Returns an array of all characters seperated by type (Students, Heros, Villians, Other)",
+        "responses": {
+          "200": {
+            "description": "Successfully returned all characters.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "students": {
+                      "items": {
+                        "$ref": "#/components/schemas/Characters_Student"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Characters_Student": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "name_japanese",
+          "other_names",
+          "quirk",
+          "quirk_japanese",
+          "quirk_description",
+          "class"
+        ],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 1
+          },
+          "name": {
+            "type": "string",
+            "example": "Izuku Midoriya"
+          },
+          "name_japanese": {
+            "type": "string",
+            "example": "緑谷 出久"
+          },
+          "other_names": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "example": "Deku"
+            }
+          },
+          "quirk": {
+            "type": "string",
+            "example": "One For All"
+          },
+          "quirk_japanese": {
+            "type": "string",
+            "example": "ワン・フォー・オール"
+          },
+          "quirk_description": {
+            "type": "string",
+            "example": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability."
+          },
+          "class": {
+            "type": "string",
+            "example": "Class 1-A"
+          }
+        }
+      }
+    }
+  }
+}
