@@ -27,8 +27,8 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
-app.use("/", swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
 app.use("/characters", charactersRouter);
+app.use("/", swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
