@@ -126,11 +126,13 @@ Calling this resource will respond with an array containing objects with the fol
 }
 ```
 
-Currently there is data for all (_as of 29th September 2022_) 45 students.
+Currently there is data for 45 students.
 
 ### Endpoints
 
 - Characters
+  - Students
+  - Villains
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
@@ -142,7 +144,7 @@ Currently there is data for all (_as of 29th September 2022_) 45 students.
 - [ ] CI/CD Pipelines
   - [x] Auto-deployment
   - [x] Linting workflow
-  - [ ] Testing workflow
+  - [x] Testing workflow
   - [ ] Contribution guides
 - [ ] Data for all characters
   - [x] Students
