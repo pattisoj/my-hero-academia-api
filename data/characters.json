@@ -453,12 +453,12 @@
 "villains" : [
         {
         "id" : "46",
-        "name" : "",
-        "name_japanese" : "",
-        "other_names" : [""],
-        "quirk" : "",
-        "quirk_japanese" : "",
-        "quirk_description" : ".",
-        "affiliation" : ""
+        "name" : "Tenko Shimura",
+        "name_japanese" : "志村 転弧",
+        "other_names" : ["Tomura Shigaraki"],
+        "quirk" : "Decay",
+        "quirk_japanese" : "崩壊",
+        "quirk_description" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it.",
+        "affiliation" : "League of Villains"
     }
     ]}
