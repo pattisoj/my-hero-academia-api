@@ -450,4 +450,15 @@
             "class" : "Third year student / The Big 3"
         }
 ],
-"villains" : ["Villains placeholder"]}
+"villains" : [
+        {
+        "id" : "46",
+        "name" : "",
+        "name_japanese" : "",
+        "other_names" : [""],
+        "quirk" : "",
+        "quirk_japanese" : "",
+        "quirk_description" : ".",
+        "affiliation" : ""
+    }
+    ]}
