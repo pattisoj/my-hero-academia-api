@@ -500,5 +500,55 @@
         "quirk_japanese" : "",
         "quirk_description" : "An immensely powerful kaiju-sized villain who has multiple Quirks and is deeply loyal to All For One.",
         "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "51",
+        "name" : "Kagero Okuta",
+        "name_japanese" : "憶田 影朧",
+        "other_names" : ["Giran"],
+        "quirk" : "Muddiness",
+        "quirk_japanese" : "混濁",
+        "quirk_description" : "Allows him to cause minor amnesia to a person by making physical contact with their head.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "52",
+        "name" : "Toya Todoroki",
+        "name_japanese" : "轟 燈矢",
+        "other_names" : ["Dabi"],
+        "quirk" : "Blueflame",
+        "quirk_japanese" : "蒼炎",
+        "quirk_description" : "Allows him to generate and control a stronger variant of Endeavor's Hellflame, possessing a high cold resistance but unable to withstand his own flames for a prolonged amount of time.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "53",
+        "name" : "Himiko Toga",
+        "name_japanese" : "渡我 被身子",
+        "other_names" : [],
+        "quirk" : "Transform",
+        "quirk_japanese" : "変身",
+        "quirk_description" : "She is able to assume the physical appearance of another after drinking  that person's blood. The quirk later evolved to allow her to use the Quirk of whoever she turns into.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "54",
+        "name" : "Jin Bubaigawara",
+        "name_japanese" : "分倍河原 仁",
+        "other_names" : ["Twice"],
+        "quirk" : "Double",
+        "quirk_japanese" : "二倍",
+        "quirk_description" : "The Quirk allows him to create copies of anything he touches, including himself once overcoming his personal issues.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "55",
+        "name" : "Atsuhiro Sako",
+        "name_japanese" : "迫 圧紘",
+        "other_names" : ["Mr. Compress"],
+        "quirk" : "Compress",
+        "quirk_japanese" : "コンプレス",
+        "quirk_description" : "Allows him to instantly shrink down anything in a spherical area into a small marble without actually damaging it.",
+        "affiliation" : "League of Villains"
     }
     ]}
