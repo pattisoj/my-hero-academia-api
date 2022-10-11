@@ -620,5 +620,65 @@
         "quirk_japanese" : "脳無",
         "quirk_description" : "A small Nomu with a cable-like bottom that is owned by Daruma and has the ability to teleport people by spraying a goo that makes its recipient a medium for the teleportation.",
         "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "63",
+        "name" : "Rikiya Yotsubashi",
+        "name_japanese" : "四ツ橋 力也",
+        "other_names" : ["Re-Destro"],
+        "quirk" : "Stress",
+        "quirk_japanese" : "ストレス",
+        "quirk_description" : "Grants him the ability to convert his stress and anger into raw power, which turns him into a hulking monster and significantly enhances his strength.",
+        "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "64",
+        "name" : "Koku Hanabata",
+        "name_japanese" : "花畑 孔腔",
+        "other_names" : ["Trumpet"],
+        "quirk" : "Incite",
+        "quirk_japanese" : "煽動",
+        "quirk_description" : "Allows him to boost the physical and mental abilities of his subordinates from his voice.",
+        "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "65",
+        "name" : "Tomoyasu Chikazoku",
+        "name_japanese" : "近属 友保",
+        "other_names" : ["Skeptic"],
+        "quirk" : "Anthropomorph",
+        "quirk_japanese" : "人形",
+        "quirk_description" : "Allows him to take a human-sized object and turn it into an exact lookalike of any given person, which he can then control like a puppet.",
+        "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "66",
+        "name" : "Chitose Kizuki",
+        "name_japanese" : "気月 置歳",
+        "other_names" : ["Curious"],
+        "quirk" : "Landmine",
+        "quirk_japanese" : "地雷",
+        "quirk_description" : "Allows her to turn anything she touches into a bomb.",
+        "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "67",
+        "name" : "Geten",
+        "name_japanese" : "外典",
+        "other_names" : ["Iceman"],
+        "quirk" : "Ice Manipulation",
+        "quirk_japanese" : "氷操",
+        "quirk_description" : "Allows him to freely control all nearby ice.",
+        "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "68",
+        "name" : "Tatsuyuki Tokoname",
+        "name_japanese" : "常滑達行",
+        "other_names" : ["Slidin' Go"],
+        "quirk" : "",
+        "quirk_japanese" : "",
+        "quirk_description" : "Possesses an unnamed sliding Quirk.",
+        "affiliation" : "Meta Liberation Army"
     }
     ]}
