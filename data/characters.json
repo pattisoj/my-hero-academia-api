@@ -600,5 +600,25 @@
         "quirk_japanese" : "歯刃",
         "quirk_description" : "Allows him to lengthen, sharpen, and manipulate his teeth into webs of powerful blades.",
         "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "61",
+        "name" : "Hood",
+        "name_japanese" : "フード",
+        "other_names" : [],
+        "quirk" : "Nomu",
+        "quirk_japanese" : "脳無",
+        "quirk_description" : "A highly advanced and sentient Nomu made from an unnamed street punk who attacks Endeavor and Hawks in Kyushu. Hood openly showed some signs of obedience and loyalty to his master. He spoke with a stutter and broken grammar.ep 87 He is revealed to possess six different Quirks and is able to severely injure Endeavor, before the latter incinerates him with his ultimate super move Prominence Burn.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "62",
+        "name" : "Johnny",
+        "name_japanese" : "ジョン",
+        "other_names" : [],
+        "quirk" : "Nomu",
+        "quirk_japanese" : "脳無",
+        "quirk_description" : "A small Nomu with a cable-like bottom that is owned by Daruma and has the ability to teleport people by spraying a goo that makes its recipient a medium for the teleportation.",
+        "affiliation" : "League of Villains"
     }
     ]}
