@@ -550,5 +550,55 @@
         "quirk_japanese" : "コンプレス",
         "quirk_description" : "Allows him to instantly shrink down anything in a spherical area into a small marble without actually damaging it.",
         "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "56",
+        "name" : "Shuichi Iguchi",
+        "name_japanese" : "伊口 秀一",
+        "other_names" : ["Spinner"],
+        "quirk" : "Gecko",
+        "quirk_japanese" : "ヤモリ",
+        "quirk_description" : "Gives him the appearance and abilities of a gecko.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "57",
+        "name" : "Kenji Hikiishi",
+        "name_japanese" : "引石 健磁",
+        "other_names" : ["Magne"],
+        "quirk" : "Magnetism",
+        "quirk_japanese" : "磁力",
+        "quirk_description" : "Allows her to magnetize others within an area around herself.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "58",
+        "name" : "Goto Imatsuji",
+        "name_japanese" : "今筋強斗",
+        "other_names" : ["Muscular"],
+        "quirk" : "Pump Up",
+        "quirk_japanese" : "筋肉増強",
+        "quirk_description" : "Allows him to enlarge the muscle fibers beneath his skin, granting him immense strength, speed, stamina, and durability.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "59",
+        "name" : "Mustard",
+        "name_japanese" : "マスタード",
+        "other_names" : [],
+        "quirk" : "Gas",
+        "quirk_japanese" : "ガス",
+        "quirk_description" : "Allows him to generate vast amounts of a toxic sleeping gas from his body, he is not immune to his own Quirk.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "60",
+        "name" : "Moonfish",
+        "name_japanese" : "ムーンフィッシュ",
+        "other_names" : [],
+        "quirk" : "Blade-Tooth",
+        "quirk_japanese" : "歯刃",
+        "quirk_description" : "Allows him to lengthen, sharpen, and manipulate his teeth into webs of powerful blades.",
+        "affiliation" : "League of Villains"
     }
     ]}
