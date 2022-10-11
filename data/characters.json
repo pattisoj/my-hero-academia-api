@@ -460,5 +460,45 @@
         "quirk_japanese" : "崩壊",
         "quirk_description" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it.",
         "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "47",
+        "name" : "Shigaraki",
+        "name_japanese" : "死柄木",
+        "other_names" : ["All For One", "Symbol of Evil"],
+        "quirk" : "All For One",
+        "quirk_japanese" : "オール・フォー・ワン",
+        "quirk_description" : "Allows him to both steal and bestow Quirks, as well as wield multiple Quirks at once.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "48",
+        "name" : "Oboro Shirakumo",
+        "name_japanese" : "白雲 朧",
+        "other_names" : ["Kurogiri"],
+        "quirk" : "Warp Gate",
+        "quirk_japanese" : "ワープゲート",
+        "quirk_description" : "Allows him to generate a dark purple fog from his body and use it to create weaponized long-ranged portals.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "49",
+        "name" : "Dr. Kyudai Garaki",
+        "name_japanese" : "殻木 球大 博士",
+        "other_names" : ["Daruma Ujiko"],
+        "quirk" : "Life Force",
+        "quirk_japanese" : "摂生",
+        "quirk_description" : "Grants him an extended lifespan and makes him look younger than he actually is.",
+        "affiliation" : "League of Villains"
+    },
+    {
+        "id" : "50",
+        "name" : "Gigantomachia",
+        "name_japanese" : "ギガントマキア",
+        "other_names" : [],
+        "quirk" : "Has multiple quirks",
+        "quirk_japanese" : "",
+        "quirk_description" : "An immensely powerful kaiju-sized villain who has multiple Quirks and is deeply loyal to All For One.",
+        "affiliation" : "League of Villains"
     }
     ]}
