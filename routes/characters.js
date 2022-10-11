@@ -2,12 +2,12 @@ var express = require("express");
 var router = express.Router();
 var data = require("../data/characters.json");
 
-/* GET all characters. */
+/* GET all students. */
 router.get("/students", function (req, res, next) {
   res.json(data.students);
 });
 
-/* GET all characters. */
+/* GET all villains. */
 router.get("/villains", function (req, res, next) {
   res.json(data.villains);
 });
