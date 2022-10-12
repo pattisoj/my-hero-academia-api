@@ -449,4 +449,466 @@
             "quirk_description" : "Allows her to convert her stamina into energy and release it in the form of spiral shockwaves.",
             "class" : "Third year student / The Big 3"
         }
-]}
+],
+"villains" : [
+        {
+            "id" : "46",
+            "name" : "Tenko Shimura",
+            "name_japanese" : "志村 転弧",
+            "other_names" : ["Tomura Shigaraki"],
+            "quirk" : "Decay",
+            "quirk_japanese" : "崩壊",
+            "quirk_description" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "47",
+            "name" : "Shigaraki",
+            "name_japanese" : "死柄木",
+            "other_names" : ["All For One", "Symbol of Evil"],
+            "quirk" : "All For One",
+            "quirk_japanese" : "オール・フォー・ワン",
+            "quirk_description" : "Allows him to both steal and bestow Quirks, as well as wield multiple Quirks at once.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "48",
+            "name" : "Oboro Shirakumo",
+            "name_japanese" : "白雲 朧",
+            "other_names" : ["Kurogiri"],
+            "quirk" : "Warp Gate",
+            "quirk_japanese" : "ワープゲート",
+            "quirk_description" : "Allows him to generate a dark purple fog from his body and use it to create weaponized long-ranged portals.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "49",
+            "name" : "Dr. Kyudai Garaki",
+            "name_japanese" : "殻木 球大 博士",
+            "other_names" : ["Daruma Ujiko"],
+            "quirk" : "Life Force",
+            "quirk_japanese" : "摂生",
+            "quirk_description" : "Grants him an extended lifespan and makes him look younger than he actually is.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "50",
+            "name" : "Gigantomachia",
+            "name_japanese" : "ギガントマキア",
+            "other_names" : [],
+            "quirk" : "Has multiple quirks",
+            "quirk_japanese" : "",
+            "quirk_description" : "An immensely powerful kaiju-sized villain who has multiple Quirks and is deeply loyal to All For One.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "51",
+            "name" : "Kagero Okuta",
+            "name_japanese" : "憶田 影朧",
+            "other_names" : ["Giran"],
+            "quirk" : "Muddiness",
+            "quirk_japanese" : "混濁",
+            "quirk_description" : "Allows him to cause minor amnesia to a person by making physical contact with their head.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "52",
+            "name" : "Toya Todoroki",
+            "name_japanese" : "轟 燈矢",
+            "other_names" : ["Dabi"],
+            "quirk" : "Blueflame",
+            "quirk_japanese" : "蒼炎",
+            "quirk_description" : "Allows him to generate and control a stronger variant of Endeavor's Hellflame, possessing a high cold resistance but unable to withstand his own flames for a prolonged amount of time.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "53",
+            "name" : "Himiko Toga",
+            "name_japanese" : "渡我 被身子",
+            "other_names" : [],
+            "quirk" : "Transform",
+            "quirk_japanese" : "変身",
+            "quirk_description" : "She is able to assume the physical appearance of another after drinking  that person's blood. The quirk later evolved to allow her to use the Quirk of whoever she turns into.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "54",
+            "name" : "Jin Bubaigawara",
+            "name_japanese" : "分倍河原 仁",
+            "other_names" : ["Twice"],
+            "quirk" : "Double",
+            "quirk_japanese" : "二倍",
+            "quirk_description" : "The Quirk allows him to create copies of anything he touches, including himself once overcoming his personal issues.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "55",
+            "name" : "Atsuhiro Sako",
+            "name_japanese" : "迫 圧紘",
+            "other_names" : ["Mr. Compress"],
+            "quirk" : "Compress",
+            "quirk_japanese" : "コンプレス",
+            "quirk_description" : "Allows him to instantly shrink down anything in a spherical area into a small marble without actually damaging it.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "56",
+            "name" : "Shuichi Iguchi",
+            "name_japanese" : "伊口 秀一",
+            "other_names" : ["Spinner"],
+            "quirk" : "Gecko",
+            "quirk_japanese" : "ヤモリ",
+            "quirk_description" : "Gives him the appearance and abilities of a gecko.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "57",
+            "name" : "Kenji Hikiishi",
+            "name_japanese" : "引石 健磁",
+            "other_names" : ["Magne"],
+            "quirk" : "Magnetism",
+            "quirk_japanese" : "磁力",
+            "quirk_description" : "Allows her to magnetize others within an area around herself.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "58",
+            "name" : "Goto Imatsuji",
+            "name_japanese" : "今筋強斗",
+            "other_names" : ["Muscular"],
+            "quirk" : "Pump Up",
+            "quirk_japanese" : "筋肉増強",
+            "quirk_description" : "Allows him to enlarge the muscle fibers beneath his skin, granting him immense strength, speed, stamina, and durability.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "59",
+            "name" : "Mustard",
+            "name_japanese" : "マスタード",
+            "other_names" : [],
+            "quirk" : "Gas",
+            "quirk_japanese" : "ガス",
+            "quirk_description" : "Allows him to generate vast amounts of a toxic sleeping gas from his body, he is not immune to his own Quirk.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "60",
+            "name" : "Moonfish",
+            "name_japanese" : "ムーンフィッシュ",
+            "other_names" : [],
+            "quirk" : "Blade-Tooth",
+            "quirk_japanese" : "歯刃",
+            "quirk_description" : "Allows him to lengthen, sharpen, and manipulate his teeth into webs of powerful blades.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "61",
+            "name" : "Hood",
+            "name_japanese" : "フード",
+            "other_names" : [],
+            "quirk" : "Nomu",
+            "quirk_japanese" : "脳無",
+            "quirk_description" : "A highly advanced and sentient Nomu made from an unnamed street punk who attacks Endeavor and Hawks in Kyushu. Hood openly showed some signs of obedience and loyalty to his master. He spoke with a stutter and broken grammar.ep 87 He is revealed to possess six different Quirks and is able to severely injure Endeavor, before the latter incinerates him with his ultimate super move Prominence Burn.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "62",
+            "name" : "Johnny",
+            "name_japanese" : "ジョン",
+            "other_names" : [],
+            "quirk" : "Nomu",
+            "quirk_japanese" : "脳無",
+            "quirk_description" : "A small Nomu with a cable-like bottom that is owned by Daruma and has the ability to teleport people by spraying a goo that makes its recipient a medium for the teleportation.",
+            "affiliation" : "League of Villains"
+        },
+        {
+            "id" : "63",
+            "name" : "Rikiya Yotsubashi",
+            "name_japanese" : "四ツ橋 力也",
+            "other_names" : ["Re-Destro"],
+            "quirk" : "Stress",
+            "quirk_japanese" : "ストレス",
+            "quirk_description" : "Grants him the ability to convert his stress and anger into raw power, which turns him into a hulking monster and significantly enhances his strength.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "64",
+            "name" : "Koku Hanabata",
+            "name_japanese" : "花畑 孔腔",
+            "other_names" : ["Trumpet"],
+            "quirk" : "Incite",
+            "quirk_japanese" : "煽動",
+            "quirk_description" : "Allows him to boost the physical and mental abilities of his subordinates from his voice.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "65",
+            "name" : "Tomoyasu Chikazoku",
+            "name_japanese" : "近属 友保",
+            "other_names" : ["Skeptic"],
+            "quirk" : "Anthropomorph",
+            "quirk_japanese" : "人形",
+            "quirk_description" : "Allows him to take a human-sized object and turn it into an exact lookalike of any given person, which he can then control like a puppet.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "66",
+            "name" : "Chitose Kizuki",
+            "name_japanese" : "気月 置歳",
+            "other_names" : ["Curious"],
+            "quirk" : "Landmine",
+            "quirk_japanese" : "地雷",
+            "quirk_description" : "Allows her to turn anything she touches into a bomb.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "67",
+            "name" : "Geten",
+            "name_japanese" : "外典",
+            "other_names" : ["Iceman"],
+            "quirk" : "Ice Manipulation",
+            "quirk_japanese" : "氷操",
+            "quirk_description" : "Allows him to freely control all nearby ice.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "68",
+            "name" : "Tatsuyuki Tokoname",
+            "name_japanese" : "常滑達行",
+            "other_names" : ["Slidin' Go"],
+            "quirk" : "",
+            "quirk_japanese" : "",
+            "quirk_description" : "Possesses an unnamed sliding Quirk.",
+            "affiliation" : "Meta Liberation Army"
+        },
+        {
+            "id" : "69",
+            "name" : "Kai Chisaki",
+            "name_japanese" : "治崎 廻",
+            "other_names" : ["Overhaul"],
+            "quirk" : "Overhaul",
+            "quirk_japanese" : "オーバーホール",
+            "quirk_description" : "enables him to disassemble anything he touches, as well as reassemble it in any configuration he desires. He can also use his Quirk to fuse himself with others, which enables him to use their Quirks, and heal himself of any injuries he sustains in combat.",
+            "affiliation" : "Shie Hassaikai"
+        },
+        {
+            "id" : "70",
+            "name" : "Hari Kurono",
+            "name_japanese" : "玄野 針",
+            "other_names" : ["Chronostasis"],
+            "quirk" : "Chronostasis",
+            "quirk_japanese" : "クロノスタシス",
+            "quirk_description" : "Enables him to slow down the movements of anything he hits with his clock-hand-like hair.",
+            "affiliation" : "Shie Hassaikai"
+        },
+        {
+            "id" : "71",
+            "name" : "Joi Irinaka",
+            "name_japanese" : "入中 常衣",
+            "other_names" : ["Mimic"],
+            "quirk" : "Mimicry",
+            "quirk_japanese" : "擬態",
+            "quirk_description" : "Allows him to transfer his own body and mind into solid objects, which he can then manipulate and control like his actual body.",
+            "affiliation" : "Shie Hassaikai"
+        },
+        {
+            "id" : "72",
+            "name" : "Shin Nemoto",
+            "name_japanese" : "音本 真",
+            "other_names" : [""],
+            "quirk" : "Confession",
+            "quirk_japanese" : "真実吐き",
+            "quirk_description" : "Enables him to force people to answer his questions truthfully.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "73",
+            "name" : "Rikiya Katsukame",
+            "name_japanese" : "活瓶 力也",
+            "other_names" : [""],
+            "quirk" : "Vitality Stealing",
+            "quirk_japanese" : "活力 吸収",
+            "quirk_description" : "Allows him to absorb the stamina of his adversaries, simultaneously strengthening himself and weakening his opponents.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "74",
+            "name" : "Toya Setsuno",
+            "name_japanese" : "窃野 トウヤ",
+            "other_names" : [""],
+            "quirk" : "Larceny",
+            "quirk_japanese" : "窃盗",
+            "quirk_description" : "Allows him to telekinetically steal any objects that his target possesses.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "75",
+            "name" : "Yu Hojo",
+            "name_japanese" : "宝生 結",
+            "other_names" : [""],
+            "quirk" : "Crystallize",
+            "quirk_japanese" : "結晶",
+            "quirk_description" : "Allows him to grow sharp, durable crystals all over his body.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "76",
+            "name" : "Soramitsu Tabe",
+            "name_japanese" : "多部 空満",
+            "other_names" : [""],
+            "quirk" : "Food",
+            "quirk_japanese" : "食",
+            "quirk_description" : "Allows his teeth to easily chew through and consume any solid substance, no matter how durable it is.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "77",
+            "name" : "Kendo Rappa",
+            "name_japanese" : "乱波 肩動",
+            "other_names" : ["The Rapper"],
+            "quirk" : "Strongarm",
+            "quirk_japanese" : "強肩",
+            "quirk_description" : "Enables him to rotate his shoulders at extreme speeds, allowing him to attack his targets with a near-endless barrage of bullet punches.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "78",
+            "name" : "Hekiji Tengai",
+            "name_japanese" : "天蓋 壁慈",
+            "other_names" : [""],
+            "quirk" : "Barrier",
+            "quirk_japanese" : "バリア",
+            "quirk_description" : "Allows him to create a dome-shaped forcefield around himself and his allies.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "79",
+            "name" : "Deidoro Sakaki",
+            "name_japanese" : "酒木 泥泥",
+            "other_names" : [""],
+            "quirk" : "Sloshed",
+            "quirk_japanese" : "泥酔",
+            "quirk_description" : "Enables him to subject anyone near him to severe dizziness, knocking off their sense of balance and putting them in a state similar to being drunk.",
+            "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+        },
+        {
+            "id" : "80",
+            "name" : "Chizome Akaguro",
+            "name_japanese" : "赤黒 血染",
+            "other_names" : ["Stain"],
+            "quirk" : "Bloodcurdle",
+            "quirk_japanese" : "凝血",
+            "quirk_description" : "Allows him to paralyze a person for a certain period of time by ingesting their blood.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "81",
+            "name" : "Danjuro Tobita",
+            "name_japanese" : "飛田 弾柔郎",
+            "other_names" : ["Gentle Criminal"],
+            "quirk" : "Elasticity",
+            "quirk_japanese" : "弾性",
+            "quirk_description" : "Allows him to bestow the property of elasticity to anything he touches.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "82",
+            "name" : "Manami Aiba",
+            "name_japanese" : "相場 愛美",
+            "other_names" : ["La Brava"],
+            "quirk" : "Love",
+            "quirk_japanese" : "ラブ",
+            "quirk_description" : "Allows her to boost the power of whomever she loves the most by declaring her love to them (although she is only able to activate her Quirk once a day).",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "83",
+            "name" : "Ending",
+            "name_japanese" : "エンディング",
+            "other_names" : [""],
+            "quirk" : "Whiteline",
+            "quirk_japanese" : "白線",
+            "quirk_description" : "Allows him to control and manipulate any lane lines that are painted on the road.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "84",
+            "name" : "Kaina Tsutsumi",
+            "name_japanese" : "筒美 火伊那",
+            "other_names" : ["Lady Nagant"],
+            "quirk" : "Rifle",
+            "quirk_japanese" : "ライフル",
+            "quirk_description" : "Grants her the ability to transform her right forearm into a rifle at will. She uses her hair to create ammunition.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "85",
+            "name" : "Wolfram",
+            "name_japanese" : "ウォルフラム",
+            "other_names" : [""],
+            "quirk" : "Metal Manipulation and Muscle Augmentation",
+            "quirk_japanese" : "金属操作 and 筋肉増強",
+            "quirk_description" : "Enables him to reshape and manipulate all types of metal. All For One also gave Wolfram the Quirk, Muscle Augmentation that enables him to increase his muscle mass.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "86",
+            "name" : "Nine",
+            "name_japanese" : "ナイン",
+            "other_names" : [""],
+            "quirk" : "Weather Manipulation",
+            "quirk_japanese" : "気象操作",
+            "quirk_description" : "Enables him to control the weather. In addition, Nine can also steal the Quirks of anyone and constant use of them can exhaust him, causing Nine to wear a special life-support system that pumps special drugs in him.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "87",
+            "name" : "Flect Turn",
+            "name_japanese" : "フレクト・ターン",
+            "other_names" : [""],
+            "quirk" : "Reflect",
+            "quirk_japanese" : "リフレクト",
+            "quirk_description" : "Enables him to reflect all types of energy, including any attack and its effects, back to the user; as well as storing it for later.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "88",
+            "name" : "Beros",
+            "name_japanese" : "ベロス",
+            "other_names" : [""],
+            "quirk" : "Long Bow",
+            "quirk_japanese" : "ロング ボウ",
+            "quirk_description" : "Allows her to morph her left hand into a bow, as well as being able to control the object she shoots out of it. However, she cannot create her own ammunition.",
+            "affiliation" : "Other - Flect Turn"
+        },
+        {
+            "id" : "89",
+            "name" : "Sidero",
+            "name_japanese" : "シデロ",
+            "other_names" : [""],
+            "quirk" : "Iron Ball",
+            "quirk_japanese" : "アイアン ボール",
+            "quirk_description" : "Allows him to create iron balls (of which he can also control the size of, to an extent) and shoot them from his knuckles.",
+            "affiliation" : "Other - Flect Turn"
+        },
+        {
+            "id" : "90",
+            "name" : "Serpenters",
+            "name_japanese" : "サーペンターズ",
+            "other_names" : ["Ena", "Dio"],
+            "quirk" : "Sword Kill",
+            "quirk_japanese" : "ソード キル",
+            "quirk_description" : "A villain duo made up of two twin brothers - Their Quirk allows each of them to manifest flexible swords from their arms and shoulders.",
+            "affiliation" : "Other - Flect Turn"
+        },
+        {
+            "id" : "91",
+            "name" : "Leviathan",
+            "name_japanese" : "レヴィアタン",
+            "other_names" : [""],
+            "quirk" : "Helical Scythe",
+            "quirk_japanese" : "ヘリカルサイズ",
+            "quirk_description" : "Allows him to create a powerful water current twist from his fingertips and horns.",
+            "affiliation" : "Other - Flect Turn"
+        }
+    ]}
