@@ -850,5 +850,55 @@
         "quirk_japanese" : "金属操作 and 筋肉増強",
         "quirk_description" : "Enables him to reshape and manipulate all types of metal. All For One also gave Wolfram the Quirk, Muscle Augmentation that enables him to increase his muscle mass.",
         "affiliation" : "Other"
+    },
+    {
+        "id" : "86",
+        "name" : "Nine",
+        "name_japanese" : "ナイン",
+        "other_names" : [""],
+        "quirk" : "Weather Manipulation",
+        "quirk_japanese" : "気象操作",
+        "quirk_description" : "Enables him to control the weather. In addition, Nine can also steal the Quirks of anyone and constant use of them can exhaust him, causing Nine to wear a special life-support system that pumps special drugs in him.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "87",
+        "name" : "Flect Turn",
+        "name_japanese" : "フレクト・ターン",
+        "other_names" : [""],
+        "quirk" : "Reflect",
+        "quirk_japanese" : "リフレクト",
+        "quirk_description" : "Enables him to reflect all types of energy, including any attack and its effects, back to the user; as well as storing it for later.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "88",
+        "name" : "Beros",
+        "name_japanese" : "ベロス",
+        "other_names" : [""],
+        "quirk" : "Long Bow",
+        "quirk_japanese" : "ロング ボウ",
+        "quirk_description" : "Allows her to morph her left hand into a bow, as well as being able to control the object she shoots out of it. However, she cannot create her own ammunition.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "89",
+        "name" : "Sidero",
+        "name_japanese" : "シデロ",
+        "other_names" : [""],
+        "quirk" : "Iron Ball",
+        "quirk_japanese" : "アイアン ボール",
+        "quirk_description" : "Allows him to create iron balls (of which he can also control the size of, to an extent) and shoot them from his knuckles.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "90",
+        "name" : "Serpenters",
+        "name_japanese" : "サーペンターズ",
+        "other_names" : ["Ena", "Dio"],
+        "quirk" : "Sword Kill",
+        "quirk_japanese" : "ソード キル",
+        "quirk_description" : "A villain duo made up of two twin brothers - Their Quirk allows each of them to manifest flexible swords from their arms and shoulders.",
+        "affiliation" : "Other"
     }
     ]}
