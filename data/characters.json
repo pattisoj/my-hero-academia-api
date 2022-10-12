@@ -879,7 +879,7 @@
         "quirk" : "Long Bow",
         "quirk_japanese" : "ロング ボウ",
         "quirk_description" : "Allows her to morph her left hand into a bow, as well as being able to control the object she shoots out of it. However, she cannot create her own ammunition.",
-        "affiliation" : "Other"
+        "affiliation" : "Other - Flect Turn"
     },
     {
         "id" : "89",
@@ -889,7 +889,7 @@
         "quirk" : "Iron Ball",
         "quirk_japanese" : "アイアン ボール",
         "quirk_description" : "Allows him to create iron balls (of which he can also control the size of, to an extent) and shoot them from his knuckles.",
-        "affiliation" : "Other"
+        "affiliation" : "Other - Flect Turn"
     },
     {
         "id" : "90",
@@ -899,6 +899,16 @@
         "quirk" : "Sword Kill",
         "quirk_japanese" : "ソード キル",
         "quirk_description" : "A villain duo made up of two twin brothers - Their Quirk allows each of them to manifest flexible swords from their arms and shoulders.",
-        "affiliation" : "Other"
+        "affiliation" : "Other - Flect Turn"
+    },
+    {
+        "id" : "91",
+        "name" : "Leviathan",
+        "name_japanese" : "レヴィアタン",
+        "other_names" : [""],
+        "quirk" : "Helical Scythe",
+        "quirk_japanese" : "ヘリカルサイズ",
+        "quirk_description" : "Allows him to create a powerful water current twist from his fingertips and horns.",
+        "affiliation" : "Other - Flect Turn"
     }
     ]}
