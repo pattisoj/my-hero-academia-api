@@ -700,5 +700,55 @@
         "quirk_japanese" : "クロノスタシス",
         "quirk_description" : "Enables him to slow down the movements of anything he hits with his clock-hand-like hair.",
         "affiliation" : "Shie Hassaikai"
+    },
+    {
+        "id" : "71",
+        "name" : "Joi Irinaka",
+        "name_japanese" : "入中 常衣",
+        "other_names" : ["Mimic"],
+        "quirk" : "Mimicry",
+        "quirk_japanese" : "擬態",
+        "quirk_description" : "Allows him to transfer his own body and mind into solid objects, which he can then manipulate and control like his actual body.",
+        "affiliation" : "Shie Hassaikai"
+    },
+    {
+        "id" : "72",
+        "name" : "Shin Nemoto",
+        "name_japanese" : "音本 真",
+        "other_names" : [""],
+        "quirk" : "Confession",
+        "quirk_japanese" : "真実吐き",
+        "quirk_description" : "Enables him to force people to answer his questions truthfully.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "73",
+        "name" : "Rikiya Katsukame",
+        "name_japanese" : "活瓶 力也",
+        "other_names" : [""],
+        "quirk" : "Vitality Stealing",
+        "quirk_japanese" : "活力 吸収",
+        "quirk_description" : "Allows him to absorb the stamina of his adversaries, simultaneously strengthening himself and weakening his opponents.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "74",
+        "name" : "Toya Setsuno",
+        "name_japanese" : "窃野 トウヤ",
+        "other_names" : [""],
+        "quirk" : "Larceny",
+        "quirk_japanese" : "窃盗",
+        "quirk_description" : "Allows him to telekinetically steal any objects that his target possesses.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "75",
+        "name" : "Yu Hojo",
+        "name_japanese" : "宝生 結",
+        "other_names" : [""],
+        "quirk" : "Crystallize",
+        "quirk_japanese" : "結晶",
+        "quirk_description" : "Allows him to grow sharp, durable crystals all over his body.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
     }
     ]}
