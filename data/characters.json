@@ -790,5 +790,65 @@
         "quirk_japanese" : "泥酔",
         "quirk_description" : "Enables him to subject anyone near him to severe dizziness, knocking off their sense of balance and putting them in a state similar to being drunk.",
         "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "80",
+        "name" : "Chizome Akaguro",
+        "name_japanese" : "赤黒 血染",
+        "other_names" : ["Stain"],
+        "quirk" : "Bloodcurdle",
+        "quirk_japanese" : "凝血",
+        "quirk_description" : "Allows him to paralyze a person for a certain period of time by ingesting their blood.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "81",
+        "name" : "Danjuro Tobita",
+        "name_japanese" : "飛田 弾柔郎",
+        "other_names" : ["Gentle Criminal"],
+        "quirk" : "Elasticity",
+        "quirk_japanese" : "弾性",
+        "quirk_description" : "Allows him to bestow the property of elasticity to anything he touches.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "82",
+        "name" : "Manami Aiba",
+        "name_japanese" : "相場 愛美",
+        "other_names" : ["La Brava"],
+        "quirk" : "Love",
+        "quirk_japanese" : "ラブ",
+        "quirk_description" : "Allows her to boost the power of whomever she loves the most by declaring her love to them (although she is only able to activate her Quirk once a day).",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "83",
+        "name" : "Ending",
+        "name_japanese" : "エンディング",
+        "other_names" : [""],
+        "quirk" : "Whiteline",
+        "quirk_japanese" : "白線",
+        "quirk_description" : "Allows him to control and manipulate any lane lines that are painted on the road.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "84",
+        "name" : "Kaina Tsutsumi",
+        "name_japanese" : "筒美 火伊那",
+        "other_names" : ["Lady Nagant"],
+        "quirk" : "Rifle",
+        "quirk_japanese" : "ライフル",
+        "quirk_description" : "Grants her the ability to transform her right forearm into a rifle at will. She uses her hair to create ammunition.",
+        "affiliation" : "Other"
+    },
+    {
+        "id" : "85",
+        "name" : "Wolfram",
+        "name_japanese" : "ウォルフラム",
+        "other_names" : [""],
+        "quirk" : "Metal Manipulation and Muscle Augmentation",
+        "quirk_japanese" : "金属操作 and 筋肉増強",
+        "quirk_description" : "Enables him to reshape and manipulate all types of metal. All For One also gave Wolfram the Quirk, Muscle Augmentation that enables him to increase his muscle mass.",
+        "affiliation" : "Other"
     }
     ]}
