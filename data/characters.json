@@ -750,5 +750,45 @@
         "quirk_japanese" : "結晶",
         "quirk_description" : "Allows him to grow sharp, durable crystals all over his body.",
         "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "76",
+        "name" : "Soramitsu Tabe",
+        "name_japanese" : "多部 空満",
+        "other_names" : [""],
+        "quirk" : "Food",
+        "quirk_japanese" : "食",
+        "quirk_description" : "Allows his teeth to easily chew through and consume any solid substance, no matter how durable it is.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "77",
+        "name" : "Kendo Rappa",
+        "name_japanese" : "乱波 肩動",
+        "other_names" : ["The Rapper"],
+        "quirk" : "Strongarm",
+        "quirk_japanese" : "強肩",
+        "quirk_description" : "Enables him to rotate his shoulders at extreme speeds, allowing him to attack his targets with a near-endless barrage of bullet punches.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "78",
+        "name" : "Hekiji Tengai",
+        "name_japanese" : "天蓋 壁慈",
+        "other_names" : [""],
+        "quirk" : "Barrier",
+        "quirk_japanese" : "バリア",
+        "quirk_description" : "Allows him to create a dome-shaped forcefield around himself and his allies.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
+    },
+    {
+        "id" : "79",
+        "name" : "Deidoro Sakaki",
+        "name_japanese" : "酒木 泥泥",
+        "other_names" : [""],
+        "quirk" : "Sloshed",
+        "quirk_japanese" : "泥酔",
+        "quirk_description" : "Enables him to subject anyone near him to severe dizziness, knocking off their sense of balance and putting them in a state similar to being drunk.",
+        "affiliation" : "Shie Hassaikai - One of the Eight Bullets"
     }
     ]}
