@@ -111,10 +111,11 @@ Requests can be made with curl or other helper libraries by following regular RE
 
 `curl https://myheroacademia-api.herokuapp.com/characters`
 
-Calling this resource will respond with an array containing objects with the following structure:
+Calling this resource will respond with an object with the following structure:
 
 ```json
-{
+{"students" : [
+  {
   "id": "1",
   "name": "Izuku Midoriya",
   "name_japanese": "緑谷 出久",
@@ -123,10 +124,24 @@ Calling this resource will respond with an array containing objects with the fol
   "quirk_japanese": "ワン・フォー・オール",
   "quirk_description": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
   "class": "Class 1-A"
+  },
+  ...],
+"villains" : [
+  {
+  "id" : "46",
+  "name" : "Tenko Shimura",
+  "name_japanese" : "志村 転弧",
+  "other_names" : ["Tomura Shigaraki"],
+  "quirk" : "Decay",
+  "quirk_japanese" : "崩壊",
+  "quirk_description" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it.",
+  "affiliation" : "League of Villains"
+  },
+  ...]
 }
 ```
 
-Currently there is data for 45 students.
+Currently there is data for 45 students and 46 villains.
 
 ### Endpoints
 
@@ -148,7 +163,7 @@ Currently there is data for 45 students.
   - [ ] Contribution guides
 - [ ] Data for all characters
   - [x] Students
-  - [ ] Villains
+  - [x] Villains
   - [ ] Pro Heros
   - [ ] Other
 - [ ] Episode Information
