@@ -680,5 +680,25 @@
         "quirk_japanese" : "",
         "quirk_description" : "Possesses an unnamed sliding Quirk.",
         "affiliation" : "Meta Liberation Army"
+    },
+    {
+        "id" : "69",
+        "name" : "Kai Chisaki",
+        "name_japanese" : "治崎 廻",
+        "other_names" : ["Overhaul"],
+        "quirk" : "Overhaul",
+        "quirk_japanese" : "オーバーホール",
+        "quirk_description" : "enables him to disassemble anything he touches, as well as reassemble it in any configuration he desires. He can also use his Quirk to fuse himself with others, which enables him to use their Quirks, and heal himself of any injuries he sustains in combat.",
+        "affiliation" : "Shie Hassaikai"
+    },
+    {
+        "id" : "70",
+        "name" : "Hari Kurono",
+        "name_japanese" : "玄野 針",
+        "other_names" : ["Chronostasis"],
+        "quirk" : "Chronostasis",
+        "quirk_japanese" : "クロノスタシス",
+        "quirk_description" : "Enables him to slow down the movements of anything he hits with his clock-hand-like hair.",
+        "affiliation" : "Shie Hassaikai"
     }
     ]}
