@@ -14,4 +14,18 @@ var options = {
 /* Get the documentation */
 router.use("/", swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
 
+/* Catch errors */
+router.use(function (req, res, next) {
+  next(createError(404));
+});
+
+router.use(function (err, req, res, next) {
+  // set locals
+  res.locals.message = err.message;
+  res.locals.error = err;
+  // render the error page
+  res.status(err.status || 500);
+  res.render("error");
+});
+
 module.exports = router;
