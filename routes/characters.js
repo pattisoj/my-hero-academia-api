@@ -18,18 +18,16 @@ router.get("/", function (req, res, next) {
   res.json(data);
 });
 
-/* Catch errors */
-router.use(function (req, res, next) {
-  next(createError(404));
+/* Handle 404 error */
+router.use(function (req, res) {
+  res.status(400);
+  res.render("404.jade", { title: "404: File Not Found" });
 });
 
-router.use(function (err, req, res, next) {
-  // set locals
-  res.locals.message = err.message;
-  res.locals.error = err;
-  // render the error page
-  res.status(err.status || 500);
-  res.render("error");
+/* Handle 500 error */
+router.use(function (error, req, res, next) {
+  res.status(500);
+  res.render("500.jade", { title: "500: Internal Server Error", error: error });
 });
 
 module.exports = router;
