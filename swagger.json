@@ -96,7 +96,57 @@
             "example": "Class 1-A"
           }
         }
+      },
+        "Characters_Villain": {
+          "type": "object",
+          "required": [
+            "id",
+            "name",
+            "name_japanese",
+            "other_names",
+            "quirk",
+            "quirk_japanese",
+            "quirk_description",
+            "affiliation"
+          ],
+          "properties": {
+            "id": {
+              "type": "integer",
+              "example": 46
+            },
+            "name": {
+              "type": "string",
+              "example": "Tenko Shimura"
+            },
+            "name_japanese": {
+              "type": "string",
+              "example": "志村 転弧"
+            },
+            "other_names": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "Tomura Shigaraki"
+              }
+            },
+            "quirk": {
+              "type": "string",
+              "example": "Decay"
+            },
+            "quirk_japanese": {
+              "type": "string",
+              "example": "崩壊"
+            },
+            "quirk_description": {
+              "type": "string",
+              "example": "Enables him to disintegrate whatever he touches with his fingers and anything connected to it."
+            },
+            "affiliation": {
+              "type": "string",
+              "example": "League of Villains"
+            }
+          }
+        }
       }
     }
   }
-}
