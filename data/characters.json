@@ -978,5 +978,60 @@
             "quirk_japanese" : "ドラゴン",
             "quirk_description" : "Enables her to transform into a western dragon.",
             "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "98",
+            "name" : "Toshinori Yagi",
+            "name_japanese" : "八木 俊典",
+            "hero_name" : "All Might - Symbol of Peace",
+            "hero_name_japanese" : "オールマイト - 平和の象徴",
+            "quirk" : "One for All",
+            "quirk_japanese" : "ワン・フォー・オール",
+            "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "99",
+            "name" : "Nezu",
+            "name_japanese" : "根津",
+            "hero_name" : "Nezu",
+            "hero_name_japanese" : "根津",
+            "quirk" : "High Spec",
+            "quirk_japanese" : "ハイスペック",
+            "quirk_description" : "Gives him anthropomorphic abilities and superhuman intelligence.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "100",
+            "name" : "Shota Aizawa",
+            "name_japanese" : "相澤 消太",
+            "hero_name" : "Eraser Head",
+            "hero_name_japanese" : "イレイザーヘッド",
+            "quirk" : "Erasure",
+            "quirk_japanese" : "抹消",
+            "quirk_description" : "Enables him to nullify another person's Quirk within his line of vision until he blinks. He can use his Quirk on multiple targets; it remains active, even if he looks elsewhere (as long as he doesn't blink).",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "101",
+            "name" : "Hizashi Yamada",
+            "name_japanese" : "山田 ひざし",
+            "hero_name" : "Present Mic",
+            "hero_name_japanese" : "プレゼントマイク",
+            "quirk" : "Voice",
+            "quirk_japanese" : "ヴォイス",
+            "quirk_description" : "Amplifies his voice using a jukebox-like collar.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "102",
+            "name" : "Sekijiro Kan",
+            "name_japanese" : "管 赤慈郎",
+            "hero_name" : "Vlad King",
+            "hero_name_japanese" : "ブラドキング",
+            "quirk" : "Blood Control",
+            "quirk_japanese" : "操血",
+            "quirk_description" : "Allows him to control his blood after it leaves his body. He can spread the blood out to form a variety of constructs.",
+            "affiliation" : "Faculty of U.A."
         }
     ]}
