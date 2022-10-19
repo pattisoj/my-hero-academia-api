@@ -911,4 +911,16 @@
             "quirk_description" : "Allows him to create a powerful water current twist from his fingertips and horns.",
             "affiliation" : "Other - Flect Turn"
         }
+    ],
+"heros" : [
+        {
+            "id" : "92",
+            "name" : "",
+            "name_japanese" : "",
+            "other_names" : [""],
+            "quirk" : "",
+            "quirk_japanese" : "",
+            "quirk_description" : "",
+            "affiliation" : ""
+        }
     ]}
