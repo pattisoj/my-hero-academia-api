@@ -915,12 +915,13 @@
 "heros" : [
         {
             "id" : "92",
-            "name" : "",
-            "name_japanese" : "",
-            "other_names" : [""],
-            "quirk" : "",
-            "quirk_japanese" : "",
-            "quirk_description" : "",
-            "affiliation" : ""
+            "name" : "Enji Todoroki",
+            "name_japanese" : "轟 炎司",
+            "hero_name" : "Endeavor",
+            "hero_name_japanese" : "エンデヴァー",
+            "quirk" : "Hellflame",
+            "quirk_japanese" : "ヘルフレイム",
+            "quirk_description" : "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well.",
+            "affiliation" : "Top Hero"
         }
     ]}
