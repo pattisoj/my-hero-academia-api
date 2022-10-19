@@ -923,5 +923,60 @@
             "quirk_japanese" : "ヘルフレイム",
             "quirk_description" : "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well.",
             "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "93",
+            "name" : "Keigo Takami",
+            "name_japanese" : "鷹見 啓悟",
+            "hero_name" : "Hawks",
+            "hero_name_japanese" : "ホークス",
+            "quirk" : "Fierce Wings",
+            "quirk_japanese" : "剛翼",
+            "quirk_description" : "Grants him a pair of red feathered wings that allow him to fly at high speeds. He can also detach his feathers to use as blades or telekinetically control them from a distance.",
+            "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "94",
+            "name" : "Tsunagu Hakamata",
+            "name_japanese" : "袴田 維",
+            "hero_name" : "Best Jeanist",
+            "hero_name_japanese" : "ベストジー二スト",
+            "quirk" : "Fiber Master",
+            "quirk_japanese" : "ファイバーマスター",
+            "quirk_description" : "Allows him to freely control fiber in clothes.",
+            "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "95",
+            "name" : "Rumi Usagiyama",
+            "name_japanese" : "兎山 ルミ",
+            "hero_name" : "Mirko",
+            "hero_name_japanese" : "ミルコ",
+            "quirk" : "Rabbit",
+            "quirk_japanese" : "兎",
+            "quirk_description" : "Gives her rabbit-like features such as superhuman leg strength and big rabbit-like ears.",
+            "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "96",
+            "name" : "Crust",
+            "name_japanese" : "クラスト",
+            "hero_name" : "Crust",
+            "hero_name_japanese" : "クラスト",
+            "quirk" : "Shield",
+            "quirk_japanese" : "盾",
+            "quirk_description" : "Allows him to grow stone-like hexagon-shaped shields from his body.",
+            "affiliation" : "Top Hero"
+        },
+        {
+            "id" : "97",
+            "name" : "Ryuko Tatsuma",
+            "name_japanese" : "竜間 龍子",
+            "hero_name" : "Ryukyu",
+            "hero_name_japanese" : "リューキュウ",
+            "quirk" : "Dragon",
+            "quirk_japanese" : "ドラゴン",
+            "quirk_description" : "Enables her to transform into a western dragon.",
+            "affiliation" : "Top Hero"
         }
     ]}
