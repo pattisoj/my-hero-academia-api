@@ -1033,5 +1033,38 @@
             "quirk_japanese" : "操血",
             "quirk_description" : "Allows him to control his blood after it leaves his body. He can spread the blood out to form a variety of constructs.",
             "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "103",
+            "name" : "Chiyo Shuuzenji",
+            "name_japanese" : "修善寺 治与",
+            "hero_name" : "Recovery Girl",
+            "hero_name_japanese" : "リカバリーガール",
+            "quirk" : "Heal",
+            "quirk_japanese" : "回復",
+            "quirk_description" : "Allows her to heal others' injuries by kissing them.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "104",
+            "name" : "Nemuri Kayama",
+            "name_japanese" : "香山 睡",
+            "hero_name" : "Midnight",
+            "hero_name_japanese" : "ミッドナイト",
+            "quirk" : "Somnambulist",
+            "quirk_japanese" : "眠り香",
+            "quirk_description" : "Allows her to produce a sleep-inducing fragrance from her body.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "105",
+            "name" : "Ken Ishiyama",
+            "name_japanese" : "石山 堅",
+            "hero_name" : "Cementoss",
+            "hero_name_japanese" : "セメントス",
+            "quirk" : "Cement",
+            "quirk_japanese" : "セメント",
+            "quirk_description" : "Allows him to control concrete.",
+            "affiliation" : "Faculty of U.A."
         }
     ]}
