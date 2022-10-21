@@ -1066,5 +1066,60 @@
             "quirk_japanese" : "セメント",
             "quirk_description" : "Allows him to control concrete.",
             "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "106",
+            "name" : "Anan Kurose",
+            "name_japanese" : "黒瀬 亜南",
+            "hero_name" : "Thirteen",
+            "hero_name_japanese" : "13号",
+            "quirk" : "Black Hole",
+            "quirk_japanese" : "ブラックホール",
+            "quirk_description" : "Summons a black hole with her fingers that turns anything it sucks in into dust.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "107",
+            "name" : "Ectoplasm",
+            "name_japanese" : "エクトプラズム",
+            "hero_name" : "Ectoplasm",
+            "hero_name_japanese" : "エクトプラズム",
+            "quirk" : "Clones",
+            "quirk_japanese" : "分身",
+            "quirk_description" : "Allows him to spew out an ectoplasm-like dust from his helmet that can form into a clone of himself.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "108",
+            "name" : "Snipe",
+            "name_japanese" : "スナイプ",
+            "hero_name" : "Snipe",
+            "hero_name_japanese" : "スナイプ",
+            "quirk" : "Homing",
+            "quirk_japanese" : "ホーミング",
+            "quirk_description" : "Allows him to alter the trajectory of his bullets.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "109",
+            "name" : "Higari Maijima",
+            "name_japanese" : "埋島 干狩",
+            "hero_name" : "Power Loader",
+            "hero_name_japanese" : "パワーローダー",
+            "quirk" : "Iron Claws",
+            "quirk_japanese" : "鉄爪",
+            "quirk_description" : "Gives him metallic claws at the ends of his fingers, which allow him to dig and burrow underground.",
+            "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "110",
+            "name" : "Ryo Inui",
+            "name_japanese" : "犬井 猟",
+            "hero_name" : "Hunting Dog Hero Hound Dog",
+            "hero_name_japanese" : "猟犬ヒーローハウンドドッグ",
+            "quirk" : "Dog",
+            "quirk_japanese" : "犬",
+            "quirk_description" : "Gives him the appearance of a dog.",
+            "affiliation" : "Faculty of U.A."
         }
     ]}
