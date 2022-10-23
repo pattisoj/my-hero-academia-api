@@ -1176,5 +1176,38 @@
             "quirk_japanese" : "軟体",
             "quirk_description" : "Allows him to stretch and bend his body.",
             "affiliation" : "The Wild Wild Pussycats"
+        },
+        {
+            "id" : "116",
+            "name" : "Shinya Kamihara",
+            "name_japanese" : "紙原 伸也",
+            "hero_name" : "Edgeshot",
+            "hero_name_japanese" : "エッジショット",
+            "quirk" : "Foldabody",
+            "quirk_japanese" : "紙肢",
+            "quirk_description" : "Enables him to manipulate the thinness of his body. He can use his Quirk to move around quickly, slip through tight spaces, and pierce targets by folding himself into sharp shapes.",
+            "affiliation" : "The Lurkers"
+        },
+        {
+            "id" : "117",
+            "name" : "Shinji Nishiya",
+            "name_japanese" : "西屋 森児",
+            "hero_name" : "Kamui Woods",
+            "hero_name_japanese" : "シンリンカムイ",
+            "quirk" : "Arbor",
+            "quirk_japanese" : "樹木",
+            "quirk_description" : "Gives him the ability to manipulate his tree-like limbs.",
+            "affiliation" : "The Lurkers"
+        },
+        {
+            "id" : "118",
+            "name" : "Yu Takeyama",
+            "name_japanese" : "岳山 優",
+            "hero_name" : "Mt. Lady",
+            "hero_name_japanese" : "Mt.レディ",
+            "quirk" : "Gigantification",
+            "quirk_japanese" : "巨大化",
+            "quirk_description" : "Allows her to grow to a gigantic height.",
+            "affiliation" : "The Lurkers"
         }
     ]}
