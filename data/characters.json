@@ -1132,5 +1132,49 @@
             "quirk_japanese" : "爆笑",
             "quirk_description" : "Forces her targets to burst into uncontrollable laughter that dulls their motor skills and impairs their cognitive abilities.",
             "affiliation" : "Faculty of Ketsubutsu Academy High School"
+        },
+        {
+            "id" : "112",
+            "name" : "Shino Sosaki",
+            "name_japanese" : "送崎 信乃",
+            "hero_name" : "Mandalay",
+            "hero_name_japanese" : "マンダレイ",
+            "quirk" : "Telepath",
+            "quirk_japanese" : "テレパス",
+            "quirk_description" : "Allows her to advise and instruct multiple people at once through mental transmission.",
+            "affiliation" : "The Wild Wild Pussycats"
+        },
+        {
+            "id" : "113",
+            "name" : "Ryuko Tsuchikawa",
+            "name_japanese" : "土川 流子",
+            "hero_name" : "Pixie-Bob",
+            "hero_name_japanese" : "ピクシーボブ",
+            "quirk" : "Earth Flow",
+            "quirk_japanese" : "土流",
+            "quirk_description" : "Allows her to freely manipulate the ground.",
+            "affiliation" : "The Wild Wild Pussycats"
+        },
+        {
+            "id" : "114",
+            "name" : "Tomoko Shiretoko",
+            "name_japanese" : "知床 知子",
+            "hero_name" : "Ragdoll",
+            "hero_name_japanese" : "ラグドール",
+            "quirk" : "Search",
+            "quirk_japanese" : "サーチ",
+            "quirk_description" : "Allows her to observe and monitor up to 100 people at a time.",
+            "affiliation" : "The Wild Wild Pussycats"
+        },
+        {
+            "id" : "115",
+            "name" : "Yawara Chatora",
+            "name_japanese" : "茶虎 柔",
+            "hero_name" : "Tiger",
+            "hero_name_japanese" : "虎",
+            "quirk" : "Pliabody",
+            "quirk_japanese" : "軟体",
+            "quirk_description" : "Allows him to stretch and bend his body.",
+            "affiliation" : "The Wild Wild Pussycats"
         }
     ]}
