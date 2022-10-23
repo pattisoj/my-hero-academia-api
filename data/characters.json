@@ -1121,5 +1121,16 @@
             "quirk_japanese" : "犬",
             "quirk_description" : "Gives him the appearance of a dog.",
             "affiliation" : "Faculty of U.A."
+        },
+        {
+            "id" : "111",
+            "name" : "Emi Fukukado",
+            "name_japanese" : "福門 笑",
+            "hero_name" : "Ms. Joke",
+            "hero_name_japanese" : "ミスジョーク",
+            "quirk" : "Outburst",
+            "quirk_japanese" : "爆笑",
+            "quirk_description" : "Forces her targets to burst into uncontrollable laughter that dulls their motor skills and impairs their cognitive abilities.",
+            "affiliation" : "Faculty of Ketsubutsu Academy High School"
         }
     ]}
