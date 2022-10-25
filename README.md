@@ -164,7 +164,7 @@ Currently there is data for 45 students and 46 villains.
 - [ ] Data for all characters
   - [x] Students
   - [x] Villains
-  - [ ] Pro Heros
+  - [ ] Pro Heroes
   - [ ] Other
 - [ ] Episode Information
   - [ ] Main
