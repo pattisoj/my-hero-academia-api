@@ -1209,5 +1209,60 @@
             "quirk_japanese" : "巨大化",
             "quirk_description" : "Allows her to grow to a gigantic height.",
             "affiliation" : "The Lurkers"
+        },
+        {
+            "id" : "119",
+            "name" : "Cathleen Bate",
+            "name_japanese" : "キャスリーン・ベイト",
+            "hero_name" : "Star and Stripe",
+            "hero_name_japanese" : "スターアンドストライプ",
+            "quirk" : "New Order",
+            "quirk_japanese" : "ニューオーダー",
+            "quirk_description" : "Allows her to alter the nature of objects and beings in contact with her according to her will.",
+            "affiliation" : "Foreign Hero - United States of America"
+        },
+        {
+            "id" : "120",
+            "name" : "Claire Voyance",
+            "name_japanese" : "クレア ボヤンス",
+            "hero_name" : "Claire Voyance",
+            "hero_name_japanese" : "クレア ボヤンス",
+            "quirk" : "Voyance",
+            "quirk_japanese" : "透視",
+            "quirk_description" : "Allows her to see through anything and to the other side.",
+            "affiliation" : "Foreign Hero - Otheon"
+        },
+        {
+            "id" : "121",
+            "name" : "Salaam",
+            "name_japanese" : "サラーム",
+            "hero_name" : "Salaam",
+            "hero_name_japanese" : "サラーム",
+            "quirk" : "Papyrus",
+            "quirk_japanese" : "パピルス",
+            "quirk_description" : "Allows him to turn his body paper-thin.",
+            "affiliation" : "Foreign Hero - Egypt"
+        },
+        {
+            "id" : "122",
+            "name" : "Big Red Dot",
+            "name_japanese" : "ビッグ・レッド・ドット",
+            "hero_name" : "Big Red Dot",
+            "hero_name_japanese" : "ビッグ・レッド・ドット",
+            "quirk" : "Tidal Bore",
+            "quirk_japanese" : "大海嘯",
+            "quirk_description" : "Allows him to fire powerful blasts of water from his mouth.",
+            "affiliation" : "Foreign Hero - Singapore"
+        },
+        {
+            "id" : "123",
+            "name" : "Christopher Skyline",
+            "name_japanese" : "クリストファー・スカイライン",
+            "hero_name" : "Captain Celebrity",
+            "hero_name_japanese" : "キャプテン・セレブリティ",
+            "quirk" : "Flight",
+            "quirk_japanese" : "飛行",
+            "quirk_description" : "Grants him the ability to fly.",
+            "affiliation" : "Foreign Hero - United States of America"
         }
     ]}
