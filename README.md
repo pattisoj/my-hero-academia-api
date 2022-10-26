@@ -137,17 +137,31 @@ Calling this resource will respond with an object with the following structure:
   "quirk_description" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it.",
   "affiliation" : "League of Villains"
   },
+  ...],
+"heroes" : [
+  {
+  "id" : "92",
+  "name" : "Enji Todoroki",
+  "name_japanese" : "轟 炎司",
+  "hero_name" : "Endeavor",
+  "hero_name_japanese" : "エンデヴァー",
+  "quirk" : "Hellflame",
+  "quirk_japanese" : "ヘルフレイム",
+  "quirk_description" : "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well.",
+  "affiliation" : "Top Hero"
+  },
   ...]
 }
 ```
 
-Currently there is data for 45 students and 46 villains.
+Currently there is data for 45 students, 46 villains and 42 heroes.
 
 ### Endpoints
 
-- Characters
-  - Students
-  - Villains
+- /characters
+  - /students
+  - /villains
+  - /heroes
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
@@ -164,7 +178,7 @@ Currently there is data for 45 students and 46 villains.
 - [ ] Data for all characters
   - [x] Students
   - [x] Villains
-  - [ ] Pro Heroes
+  - [x] Pro Heroes
   - [ ] Other
 - [ ] Episode Information
   - [ ] Main
