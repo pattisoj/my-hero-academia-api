@@ -1319,5 +1319,60 @@
             "quirk_japanese" : "",
             "quirk_description" : "Allows him to control water.",
             "affiliation" : "Other"
+        },
+        {
+            "id" : "128",
+            "name" : "Sorahiko Torino",
+            "name_japanese" : "酉野 空彦",
+            "hero_name" : "Gran Torino",
+            "hero_name_japanese" : "グラントリノ",
+            "quirk" : "Jet",
+            "quirk_japanese" : "ジェット",
+            "quirk_description" : "Allows him to shoot air from the soles of his feet.",
+            "affiliation" : "Other - a former mentor of All Might and Izuku Midoriya"
+        },
+        {
+            "id" : "129",
+            "name" : "Tensei Ida",
+            "name_japanese" : "飯田 天晴",
+            "hero_name" : "Ingenium",
+            "hero_name_japanese" : "インゲニウム",
+            "quirk" : "Engine",
+            "quirk_japanese" : "エンジン",
+            "quirk_description" : "Allows him to release propulsion jets from his elbows and shoot himself forward at turbo speed.",
+            "affiliation" : "Other - Tenya's older brother and a former Pro Hero"
+        },
+        {
+            "id" : "130",
+            "name" : "Juzo Moashi",
+            "name_japanese" : "百足 従造",
+            "hero_name" : "Centipeder",
+            "hero_name_japanese" : "センチピーダー",
+            "quirk" : "Centipede",
+            "quirk_japanese" : "ムカデ",
+            "quirk_description" : "Grants him long centipede-like limbs with agonizing poison.",
+            "affiliation" : "Other - Nighteye Agency member"
+        },
+        {
+            "id" : "131",
+            "name" : "Kaoruko Awata",
+            "name_japanese" : "泡田 薫子",
+            "hero_name" : "Bubble Girl",
+            "hero_name_japanese" : "バブルガール",
+            "quirk" : "Bubble",
+            "quirk_japanese" : "バブル",
+            "quirk_description" : "Allows her to make bubbles filled with an aroma that she has smelled at least once before.",
+            "affiliation" : "Other - Nighteye Agency member"
+        },
+        {
+            "id" : "132",
+            "name" : "Sajin Higawara",
+            "name_japanese" : "日河原砂塵",
+            "hero_name" : "Sand Hero Snatch",
+            "hero_name_japanese" : "サンドヒーロー スナッチ",
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Enables him to turn the upper half of his body into sand and control it",
+            "affiliation" : "Other - Pro Hero and a bodyguard of the Police Force"
         }
     ]}
