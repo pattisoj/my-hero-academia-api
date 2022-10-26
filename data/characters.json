@@ -1264,5 +1264,60 @@
             "quirk_japanese" : "飛行",
             "quirk_description" : "Grants him the ability to fly.",
             "affiliation" : "Foreign Hero - United States of America"
+        },
+        {
+            "id" : "123",
+            "name" : "Kugo Sakamata",
+            "name_japanese" : "逆俣 空悟",
+            "hero_name" : "Gang Orca",
+            "hero_name_japanese" : "ギャングオルカ",
+            "quirk" : "Orcinus",
+            "quirk_japanese" : "シャチ",
+            "quirk_description" : "Gives him the abilities and appearance of a killer whale which he can use in the water or land.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "124",
+            "name" : "Mirai Sasaki",
+            "name_japanese" : "佐々木 未来",
+            "hero_name" : "Sir Nighteye",
+            "hero_name_japanese" : "サーナイトアイ",
+            "quirk" : "Foresight",
+            "quirk_japanese" : "予知",
+            "quirk_description" : "Allows him to see a person's future.",
+            "affiliation" : "Other - Former sidekick to All Might"
+        },
+        {
+            "id" : "125",
+            "name" : "Taishiro Toyomitsu",
+            "name_japanese" : "豊満 太志郎",
+            "hero_name" : "Fat Gum",
+            "hero_name_japanese" : "ファットガム",
+            "quirk" : "Fat Absorption",
+            "quirk_japanese" : "脂肪吸着",
+            "quirk_description" : "Allows him to use his fat to absorb the impact from collisions.",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "126",
+            "name" : "Ken Takagi",
+            "name_japanese" : "高木 鍵",
+            "hero_name" : "Rock Lock",
+            "hero_name_japanese" : "ロックロック",
+            "quirk" : "Lock Down",
+            "quirk_japanese" : "施錠",
+            "quirk_description" : "Enables him to lock any non-living item in a position",
+            "affiliation" : "Other"
+        },
+        {
+            "id" : "127",
+            "name" : "Masaki Mizushima",
+            "name_japanese" : "水島 正樹",
+            "hero_name" : "Manual",
+            "hero_name_japanese" : "マニュアル",
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Allows him to control water.",
+            "affiliation" : "Other"
         }
     ]}
