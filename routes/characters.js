@@ -13,6 +13,11 @@ router.get("/villains", function (req, res, next) {
   res.json(data.villains);
 });
 
+/* GET all heroes. */
+router.get("/heroes", function (req, res, next) {
+  res.json(data.heroes);
+});
+
 /* GET all characters. */
 router.get("/", function (req, res, next) {
   res.json(data);
