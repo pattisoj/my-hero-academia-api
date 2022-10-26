@@ -22,7 +22,7 @@
         "tags": [
           "Endpoints"
         ],
-        "description": "Returns an object of all characters seperated by type (Students, Heros, Villians, Other)",
+        "description": "Returns an object of all characters separated by type (Students, Heroes, Villains, Other)",
         "responses": {
           "200": {
             "description": "Successfully returned all characters.",
