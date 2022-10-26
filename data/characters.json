@@ -1374,5 +1374,16 @@
             "quirk_japanese" : "",
             "quirk_description" : "Enables him to turn the upper half of his body into sand and control it",
             "affiliation" : "Other - Pro Hero and a bodyguard of the Police Force"
+        },
+        {
+            "id" : "133",
+            "name" : "Moe Kamiji",
+            "name_japanese" : "上路 萌",
+            "hero_name" : "Burnin",
+            "hero_name_japanese" : "バーニン",
+            "quirk" : "Blazing Hair",
+            "quirk_japanese" : "燃髪",
+            "quirk_description" : "Allows her to weaponize her fire-like hair.",
+            "affiliation" : "Other - Pro Hero and one of over thirty sidekicks who work at the Endeavor Agency"
         }
     ]}
