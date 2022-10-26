@@ -37,6 +37,19 @@ describe("Characters API Route", () => {
     }
   });
 
+  it("/heroes responds with json", function (done) {
+    request(app)
+      .get("/characters/heroes")
+      .set("Accept", "application/json")
+      .expect("Content-Type", /json/)
+      .expect(hasContent)
+      .expect(200, done);
+
+    function hasContent(res) {
+      if (!(res.body.length > 0)) throw new Error("/heroes has no content");
+    }
+  });
+
   it("has correct structure for students", function (done) {
     request(app)
       .get("/characters")
@@ -92,6 +105,38 @@ describe("Characters API Route", () => {
         if (!("quirk_description" in res.body.villains[i]))
           throw new Error("missing quirk_description property");
         if (!("affiliation" in res.body.villains[i]))
+          throw new Error("missing affiliation property");
+      }
+    }
+  });
+
+  it("has correct structure for heroes", function (done) {
+    request(app)
+      .get("/characters")
+      .set("Accept", "application/json")
+      .expect("Content-Type", /json/)
+      .expect(hasCorrectStructure)
+      .expect(200, done);
+
+    function hasCorrectStructure(res) {
+      for (i = 0; res.body.heroes.length > i; i++) {
+        if (!("id" in res.body.heroes[i]))
+          throw new Error("missing id property");
+        if (!("name" in res.body.heroes[i]))
+          throw new Error("missing name property");
+        if (!("name_japanese" in res.body.heroes[i]))
+          throw new Error("missing name_japanese property");
+        if (!("hero_name" in res.body.heroes[i]))
+          throw new Error("missing hero_name property");
+        if (!("hero_name_japanese" in res.body.heroes[i]))
+          throw new Error("missing hero_name_japanese property");
+        if (!("quirk" in res.body.heroes[i]))
+          throw new Error("missing quirk property");
+        if (!("quirk_japanese" in res.body.heroes[i]))
+          throw new Error("missing quirk_japanese property");
+        if (!("quirk_description" in res.body.heroes[i]))
+          throw new Error("missing quirk_description property");
+        if (!("affiliation" in res.body.heroes[i]))
           throw new Error("missing affiliation property");
       }
     }
