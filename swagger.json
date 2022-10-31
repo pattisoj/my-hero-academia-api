@@ -76,6 +76,26 @@
           }
         }
       }
+    },
+    "/characters/heroes": {
+      "get": {
+        "tags": [
+          "Endpoints"
+        ],
+        "description": "Returns an object of all Heroes.",
+        "responses": {
+          "200": {
+            "description": "Successfully returned all heroes.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/inline_response_200_3"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
