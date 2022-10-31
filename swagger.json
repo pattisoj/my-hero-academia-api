@@ -22,7 +22,7 @@
         "tags": [
           "Endpoints"
         ],
-        "description": "Returns an object of all characters separated by type (Students, Heroes, Villains, Other)",
+        "description": "Returns an object of all characters seperated by type (Students, Heros, Villians, Other)",
         "responses": {
           "200": {
             "description": "Successfully returned all characters.",
@@ -177,6 +177,58 @@
           "affiliation": {
             "type": "string",
             "example": "League of Villains"
+          }
+        }
+      },
+      "Characters_Hero": {
+        "required": [
+          "affiliation",
+          "hero_name",
+          "hero_name_japanese",
+          "id",
+          "name",
+          "name_japanese",
+          "quirk",
+          "quirk_description",
+          "quirk_japanese"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 92
+          },
+          "name": {
+            "type": "string",
+            "example": "Enji Todoroki"
+          },
+          "name_japanese": {
+            "type": "string",
+            "example": "轟 炎司"
+          },
+          "hero_name": {
+            "type": "string",
+            "example": "Endeavor"
+          },
+          "hero_name_japanese": {
+            "type": "string",
+            "example": "エンデヴァー"
+          },
+          "quirk": {
+            "type": "string",
+            "example": "Hellflame"
+          },
+          "quirk_japanese": {
+            "type": "string",
+            "example": "ヘルフレイム"
+          },
+          "quirk_description": {
+            "type": "string",
+            "example": "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well."
+          },
+          "affiliation": {
+            "type": "string",
+            "example": "Top Hero"
           }
         }
       }
