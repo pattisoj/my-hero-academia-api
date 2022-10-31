@@ -3,7 +3,7 @@
   "info": {
     "title": "My Hero Academia API",
     "description": "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "servers": [
     {
@@ -22,7 +22,7 @@
         "tags": [
           "Endpoints"
         ],
-        "description": "Returns an object of all characters separated by type (Students, Heroes, Villains, Other)",
+        "description": "Returns an object of all characters seperated by type (Students, Heros, Villians, Other)",
         "responses": {
           "200": {
             "description": "Successfully returned all characters.",
@@ -70,6 +70,26 @@
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/inline_response_200_2"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/characters/heroes": {
+      "get": {
+        "tags": [
+          "Endpoints"
+        ],
+        "description": "Returns an object of all Heroes.",
+        "responses": {
+          "200": {
+            "description": "Successfully returned all heroes.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/inline_response_200_3"
                 }
               }
             }
@@ -177,6 +197,58 @@
           "affiliation": {
             "type": "string",
             "example": "League of Villains"
+          }
+        }
+      },
+      "Characters_Hero": {
+        "required": [
+          "affiliation",
+          "hero_name",
+          "hero_name_japanese",
+          "id",
+          "name",
+          "name_japanese",
+          "quirk",
+          "quirk_description",
+          "quirk_japanese"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 92
+          },
+          "name": {
+            "type": "string",
+            "example": "Enji Todoroki"
+          },
+          "name_japanese": {
+            "type": "string",
+            "example": "轟 炎司"
+          },
+          "hero_name": {
+            "type": "string",
+            "example": "Endeavor"
+          },
+          "hero_name_japanese": {
+            "type": "string",
+            "example": "エンデヴァー"
+          },
+          "quirk": {
+            "type": "string",
+            "example": "Hellflame"
+          },
+          "quirk_japanese": {
+            "type": "string",
+            "example": "ヘルフレイム"
+          },
+          "quirk_description": {
+            "type": "string",
+            "example": "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well."
+          },
+          "affiliation": {
+            "type": "string",
+            "example": "Top Hero"
           }
         }
       }
