@@ -53,6 +53,8 @@
 
 <!-- Screenshot / gif of the project here -->
 
+Đây là một dự án API do fan làm vì đam mê. Tôi rất thích anime và một trong những bộ yêu thích gần đây của tôi là My Hero Academia, vì vậy tôi quyết định tạo ra thứ gì đó cho nó và dựa trên cơ sở của fan nên tôi tạo ra API này.
+
 This fan-made API was created as a passion project. I really enjoy anime and one of my recent favorites has been My Hero Academia, I decided I wanted to create something for it and for it's fan base so I decided to create this API.
 
 ### Built with
@@ -73,10 +75,12 @@ This fan-made API was created as a passion project. I really enjoy anime and one
 
 ## Getting Started
 
+Để tạo và chạy một bản sao cục bộ, hãy làm theo các bước ví dụ đơn giản sau.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Để sử dụng dự án này, bạn sẽ cần cài đặt trình quản lý gói node. Vào [npm documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) để được hướng dẫn chi tiết hơn.
 To use this project you will need a node package manager installed. Visit the [npm documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for a more detailed guide.
 
 - npm
@@ -105,12 +109,15 @@ To use this project you will need a node package manager installed. Visit the [n
 
 ## Usage
 
+_Không gian này sẽ được cập nhật cùng với sự phát triển của API._
 _This space will be updated alongside the development of the API._
 
+Yêu cầu có thể được thực hiện với curl hoặc các thư viện trợ giúp khác bằng cách thực hiện theo các lệnh gọi REST thông thường. Ví dụ: đây là cách GET tất cả dữ liệu ký tự:
 Requests can be made with curl or other helper libraries by following regular REST calls. For example, here is how to GET the all of the character data:
 
 `curl https://myheroacademia-api.herokuapp.com/characters`
 
+Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu trúc sau:
 Calling this resource will respond with an object with the following structure:
 
 ```json
@@ -154,6 +161,7 @@ Calling this resource will respond with an object with the following structure:
 }
 ```
 
+Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện và 42 anh hùng.
 Currently there is data for 45 students, 46 villains and 42 heroes.
 
 ### Endpoints
@@ -193,8 +201,10 @@ See the [open issues](https://github.com/pattisoj/my-hero-academia-api/issues) f
 
 <!-- Update this with the process specific to this project -->
 
+Đóng góp là những gì làm cho cộng đồng nguồn mở trở thành một nơi tuyệt vời để học hỏi, truyền cảm hứng và sáng tạo. Bất kỳ đóng góp nào bạn thực hiện đều được đánh giá cao.
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+Nếu bạn có đề xuất nào có thể cải thiện điều này, vui lòng rẽ nhánh repo và tạo yêu cầu kéo. Bạn cũng có thể chỉ cần mở một vấn đề với thẻ "cải tiến". Đảm bảo bạn đưa ra mô tả về những thay đổi của mình. Đừng quên cho dự án một ngôi sao! Cảm ơn một lần nữa!
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Ensure you give a description of your changes.
 Don't forget to give the project a star! Thanks again!
 
@@ -207,7 +217,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## License
-
+Phân phối theo Giấy phép MIT. Xem `LICENSE.txt` để có nhiều thông tin hơn.
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
