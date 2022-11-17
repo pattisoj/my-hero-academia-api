@@ -7,7 +7,8 @@
 ![Issues](https://img.shields.io/github/issues/pattisoj/my-hero-academia-api?style=flat-square)
 ![MIT License](https://img.shields.io/github/license/pattisoj/my-hero-academia-api?style=flat-square)
 
-[Vietnamese :vietnam:](https://github.com/pattisoj/my-hero-academia-api/blob/main/README%20translations/README.vietnamese.md)
+[Tiếng Việt :vietnam:](https://github.com/pattisoj/my-hero-academia-api/blob/main/README%20translations/README.vietnamese.md)
+
 <details>
 <summary>Table of contents</summary>
   <ol>
