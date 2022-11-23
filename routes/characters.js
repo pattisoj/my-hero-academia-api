@@ -1,7 +1,15 @@
-var createError = require("http-errors");
-var express = require("express");
-var router = express.Router();
-var data = require("../data/characters.json");
+const express = require("express");
+const router = express.Router();
+const data = require("../data/characters.json");
+const myModels = require("../models/characters");
+const getCharacterByID = myModels.characterByID;
+
+/* GET character by ID */
+router.get("/:id", function (req, res) {
+  let searchedID = req.params.id;
+  const responseObject = getCharacterByID(searchedID);
+  res.json(responseObject);
+});
 
 /* GET all students. */
 router.get("/students", function (req, res, next) {
