@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/pattisoj/my-hero-academia-api?style=flat-square)
 ![MIT License](https://img.shields.io/github/license/pattisoj/my-hero-academia-api?style=flat-square)
 
-_This README was translated into Vietnamese by [KimLong1234567](https://github.com/KimLong1234567)._
+_This README was translated into Vietnamese by [KimLong1234567](https://github.com/KimLong1234567). Last translation (November 17th 2022)_
 
 <details>
 <summary>Table of contents</summary>
@@ -156,6 +156,10 @@ Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu 
 }
 ```
 
+For data on a single character you can search by id:
+
+`curl https://myheroacademia-api.herokuapp.com/characters/{id}`
+
 Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện và 42 anh hùng.
 
 ### Endpoints
@@ -164,6 +168,7 @@ Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện v
   - /students
   - /villains
   - /heroes
+  - /{id}
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
