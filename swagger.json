@@ -1,35 +1,42 @@
 {
-  "openapi": "3.0.0",
-  "info": {
-    "title": "My Hero Academia API",
-    "description": "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n",
-    "version": "1.0.4"
+  "openapi" : "3.0.0",
+  "info" : {
+    "version" : "1.0.5",
+    "title" : "My Hero Academia API",
+    "description" : "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
   },
-  "servers": [
-    {
-      "url": "https://myheroacademia-api.herokuapp.com"
-    }
-  ],
-  "tags": [
-    {
-      "name": "Endpoints",
-      "description": "Current API Endpoints"
-    }
-  ],
-  "paths": {
-    "/characters": {
-      "get": {
-        "tags": [
-          "Endpoints"
-        ],
-        "description": "Returns an object of all characters seperated by type (Students, Heros, Villians, Other)",
-        "responses": {
-          "200": {
-            "description": "Successfully returned all characters.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/inline_response_200"
+  "servers" : [ {
+    "url" : "https://myheroacademia-api.herokuapp.com"
+  } ],
+  "tags" : [ {
+    "name" : "Endpoints",
+    "description" : "Current API Endpoints"
+  } ],
+  "paths" : {
+    "/characters" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get all characters.",
+        "description" : "Returns an object of all characters seperated by type (Students, Heros, Villians, Other)",
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned all characters.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "object",
+                  "properties" : {
+                    "students" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Student"
+                      }
+                    },
+                    "villains" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Villain"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -37,19 +44,25 @@
         }
       }
     },
-    "/characters/student": {
-      "get": {
-        "tags": [
-          "Endpoints"
-        ],
-        "description": "Returns an object of all Students.",
-        "responses": {
-          "200": {
-            "description": "Successfully returned all students.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/inline_response_200_1"
+    "/characters/student" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get all Students.",
+        "description" : "Returns an object of all Students.",
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned all students.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "object",
+                  "properties" : {
+                    "students" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Student"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -57,19 +70,25 @@
         }
       }
     },
-    "/characters/villains": {
-      "get": {
-        "tags": [
-          "Endpoints"
-        ],
-        "description": "Returns an object of all Villains.",
-        "responses": {
-          "200": {
-            "description": "Successfully returned all villains.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/inline_response_200_2"
+    "/characters/villains" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get all Villains.",
+        "description" : "Returns an object of all Villains.",
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned all villains.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "object",
+                  "properties" : {
+                    "villains" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Villain"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -77,19 +96,53 @@
         }
       }
     },
-    "/characters/heroes": {
-      "get": {
-        "tags": [
-          "Endpoints"
-        ],
-        "description": "Returns an object of all Heroes.",
-        "responses": {
-          "200": {
-            "description": "Successfully returned all heroes.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/inline_response_200_3"
+    "/characters/heroes" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get all Heroes.",
+        "description" : "Returns an object of all Heroes.",
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned all heroes.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "object",
+                  "properties" : {
+                    "heroes" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Hero"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/characters/{characterID}" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get a character by id.",
+        "description" : "Returns an object of corresponding character.",
+        "parameters" : [ {
+          "in" : "path",
+          "name" : "characterID",
+          "schema" : {
+            "type" : "integer"
+          },
+          "required" : true,
+          "description" : "Numeric ID of the character to get."
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned one character. This case would have used characterID of 92.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/Characters_Hero"
                 }
               }
             }
@@ -98,157 +151,129 @@
       }
     }
   },
-  "components": {
-    "schemas": {
-      "Characters_Student": {
-        "required": [
-          "class",
-          "id",
-          "name",
-          "name_japanese",
-          "other_names",
-          "quirk",
-          "quirk_description",
-          "quirk_japanese"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "example": 1
+  "components" : {
+    "schemas" : {
+      "Characters_Student" : {
+        "type" : "object",
+        "required" : [ "id", "name", "name_japanese", "other_names", "quirk", "quirk_japanese", "quirk_description", "class" ],
+        "properties" : {
+          "id" : {
+            "type" : "integer",
+            "example" : 1
           },
-          "name": {
-            "type": "string",
-            "example": "Izuku Midoriya"
+          "name" : {
+            "type" : "string",
+            "example" : "Izuku Midoriya"
           },
-          "name_japanese": {
-            "type": "string",
-            "example": "緑谷 出久"
+          "name_japanese" : {
+            "type" : "string",
+            "example" : "緑谷 出久"
           },
-          "other_names": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "example": "Deku"
+          "other_names" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string",
+              "example" : "Deku"
             }
           },
-          "quirk": {
-            "type": "string",
-            "example": "One For All"
+          "quirk" : {
+            "type" : "string",
+            "example" : "One For All"
           },
-          "quirk_japanese": {
-            "type": "string",
-            "example": "ワン・フォー・オール"
+          "quirk_japanese" : {
+            "type" : "string",
+            "example" : "ワン・フォー・オール"
           },
-          "quirk_description": {
-            "type": "string",
-            "example": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability."
+          "quirk_description" : {
+            "type" : "string",
+            "example" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability."
           },
-          "class": {
-            "type": "string",
-            "example": "Class 1-A"
+          "class" : {
+            "type" : "string",
+            "example" : "Class 1-A"
           }
         }
       },
-      "Characters_Villain": {
-        "required": [
-          "affiliation",
-          "id",
-          "name",
-          "name_japanese",
-          "other_names",
-          "quirk",
-          "quirk_description",
-          "quirk_japanese"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "example": 46
+      "Characters_Villain" : {
+        "type" : "object",
+        "required" : [ "id", "name", "name_japanese", "other_names", "quirk", "quirk_japanese", "quirk_description", "affiliation" ],
+        "properties" : {
+          "id" : {
+            "type" : "integer",
+            "example" : 46
           },
-          "name": {
-            "type": "string",
-            "example": "Tenko Shimura"
+          "name" : {
+            "type" : "string",
+            "example" : "Tenko Shimura"
           },
-          "name_japanese": {
-            "type": "string",
-            "example": "志村 転弧"
+          "name_japanese" : {
+            "type" : "string",
+            "example" : "志村 転弧"
           },
-          "other_names": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "example": "Tomura Shigaraki"
+          "other_names" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string",
+              "example" : "Tomura Shigaraki"
             }
           },
-          "quirk": {
-            "type": "string",
-            "example": "Decay"
+          "quirk" : {
+            "type" : "string",
+            "example" : "Decay"
           },
-          "quirk_japanese": {
-            "type": "string",
-            "example": "崩壊"
+          "quirk_japanese" : {
+            "type" : "string",
+            "example" : "崩壊"
           },
-          "quirk_description": {
-            "type": "string",
-            "example": "Enables him to disintegrate whatever he touches with his fingers and anything connected to it."
+          "quirk_description" : {
+            "type" : "string",
+            "example" : "Enables him to disintegrate whatever he touches with his fingers and anything connected to it."
           },
-          "affiliation": {
-            "type": "string",
-            "example": "League of Villains"
+          "affiliation" : {
+            "type" : "string",
+            "example" : "League of Villains"
           }
         }
       },
-      "Characters_Hero": {
-        "required": [
-          "affiliation",
-          "hero_name",
-          "hero_name_japanese",
-          "id",
-          "name",
-          "name_japanese",
-          "quirk",
-          "quirk_description",
-          "quirk_japanese"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "example": 92
+      "Characters_Hero" : {
+        "type" : "object",
+        "required" : [ "id", "name", "name_japanese", "hero_name", "hero_name_japanese", "quirk", "quirk_japanese", "quirk_description", "affiliation" ],
+        "properties" : {
+          "id" : {
+            "type" : "integer",
+            "example" : 92
           },
-          "name": {
-            "type": "string",
-            "example": "Enji Todoroki"
+          "name" : {
+            "type" : "string",
+            "example" : "Enji Todoroki"
           },
-          "name_japanese": {
-            "type": "string",
-            "example": "轟 炎司"
+          "name_japanese" : {
+            "type" : "string",
+            "example" : "轟 炎司"
           },
-          "hero_name": {
-            "type": "string",
-            "example": "Endeavor"
+          "hero_name" : {
+            "type" : "string",
+            "example" : "Endeavor"
           },
-          "hero_name_japanese": {
-            "type": "string",
-            "example": "エンデヴァー"
+          "hero_name_japanese" : {
+            "type" : "string",
+            "example" : "エンデヴァー"
           },
-          "quirk": {
-            "type": "string",
-            "example": "Hellflame"
+          "quirk" : {
+            "type" : "string",
+            "example" : "Hellflame"
           },
-          "quirk_japanese": {
-            "type": "string",
-            "example": "ヘルフレイム"
+          "quirk_japanese" : {
+            "type" : "string",
+            "example" : "ヘルフレイム"
           },
-          "quirk_description": {
-            "type": "string",
-            "example": "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well."
+          "quirk_description" : {
+            "type" : "string",
+            "example" : "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well."
           },
-          "affiliation": {
-            "type": "string",
-            "example": "Top Hero"
+          "affiliation" : {
+            "type" : "string",
+            "example" : "Top Hero"
           }
         }
       }
