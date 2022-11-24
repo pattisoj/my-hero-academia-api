@@ -158,7 +158,7 @@ Calling this resource will respond with an object with the following structure:
 
 For data on a single character you can search by id:
 
-`curl https://myheroacademia-api.herokuapp.com/characters/{id}`
+`curl https://myheroacademia-api.herokuapp.com/characters/{characterID}`
 
 Currently there is data for 45 students, 46 villains and 42 heroes.
 
@@ -168,7 +168,7 @@ Currently there is data for 45 students, 46 villains and 42 heroes.
   - /students
   - /villains
   - /heroes
-  - /{id}
+  - /{characterID}
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
