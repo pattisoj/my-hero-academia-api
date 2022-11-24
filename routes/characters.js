@@ -1,7 +1,8 @@
-var createError = require("http-errors");
-var express = require("express");
-var router = express.Router();
-var data = require("../data/characters.json");
+const express = require("express");
+const router = express.Router();
+const data = require("../data/characters.json");
+const myModels = require("../models/characters");
+const getCharacterByID = myModels.characterByID;
 
 /* GET all students. */
 router.get("/students", function (req, res, next) {
@@ -16,6 +17,13 @@ router.get("/villains", function (req, res, next) {
 /* GET all heroes. */
 router.get("/heroes", function (req, res, next) {
   res.json(data.heroes);
+});
+
+/* GET character by ID */
+router.get("/:id", function (req, res) {
+  let searchedID = req.params.id;
+  const responseObject = getCharacterByID(searchedID);
+  res.json(responseObject);
 });
 
 /* GET all characters. */

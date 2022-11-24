@@ -8,7 +8,13 @@ describe("Characters API Route", () => {
       .get("/characters")
       .set("Accept", "application/json")
       .expect("Content-Type", /json/)
+      .expect(hasContent)
       .expect(200, done);
+
+    function hasContent(res) {
+      if (!(Object.keys(res.body).length > 0))
+        throw new Error("/ has no content");
+    }
   });
 
   it("/students responds with json", function (done) {
@@ -47,6 +53,20 @@ describe("Characters API Route", () => {
 
     function hasContent(res) {
       if (!(res.body.length > 0)) throw new Error("/heroes has no content");
+    }
+  });
+
+  it("/{id} responds with json", function (done) {
+    request(app)
+      .get("/characters/1")
+      .set("Accept", "application/json")
+      .expect("Content-Type", /json/)
+      .expect(hasContent)
+      .expect(200, done);
+
+    function hasContent(res) {
+      if (!(Object.keys(res.body).length > 0))
+        throw new Error("/{id} has no content");
     }
   });
 
@@ -139,6 +159,30 @@ describe("Characters API Route", () => {
         if (!("affiliation" in res.body.heroes[i]))
           throw new Error("missing affiliation property");
       }
+    }
+  });
+
+  it("has correct structure for one {id}", function (done) {
+    request(app)
+      .get("/characters/1")
+      .set("Accept", "application/json")
+      .expect("Content-Type", /json/)
+      .expect(hasCorrectStructure)
+      .expect(200, done);
+
+    function hasCorrectStructure(res) {
+      if (!("id" in res.body)) throw new Error("missing id property");
+      if (!("name" in res.body)) throw new Error("missing name property");
+      if (!("name_japanese" in res.body))
+        throw new Error("missing name_japanese property");
+      if (!("other_names" in res.body))
+        throw new Error("missing other_names property");
+      if (!("quirk" in res.body)) throw new Error("missing quirk property");
+      if (!("quirk_japanese" in res.body))
+        throw new Error("missing quirk_japanese property");
+      if (!("quirk_description" in res.body))
+        throw new Error("missing quirk_description property");
+      if (!("class" in res.body)) throw new Error("missing class property");
     }
   });
 });
