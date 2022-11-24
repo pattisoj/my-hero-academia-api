@@ -158,7 +158,7 @@ Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu 
 
 For data on a single character you can search by id:
 
-`curl https://myheroacademia-api.herokuapp.com/characters/{id}`
+`curl https://myheroacademia-api.herokuapp.com/characters/{characterID}`
 
 Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện và 42 anh hùng.
 
@@ -168,7 +168,7 @@ Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện v
   - /students
   - /villains
   - /heroes
-  - /{id}
+  - /{characterID}
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
