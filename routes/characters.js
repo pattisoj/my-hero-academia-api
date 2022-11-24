@@ -4,13 +4,6 @@ const data = require("../data/characters.json");
 const myModels = require("../models/characters");
 const getCharacterByID = myModels.characterByID;
 
-/* GET character by ID */
-router.get("/:id", function (req, res) {
-  let searchedID = req.params.id;
-  const responseObject = getCharacterByID(searchedID);
-  res.json(responseObject);
-});
-
 /* GET all students. */
 router.get("/students", function (req, res, next) {
   res.json(data.students);
@@ -24,6 +17,13 @@ router.get("/villains", function (req, res, next) {
 /* GET all heroes. */
 router.get("/heroes", function (req, res, next) {
   res.json(data.heroes);
+});
+
+/* GET character by ID */
+router.get("/:id", function (req, res) {
+  let searchedID = req.params.id;
+  const responseObject = getCharacterByID(searchedID);
+  res.json(responseObject);
 });
 
 /* GET all characters. */
