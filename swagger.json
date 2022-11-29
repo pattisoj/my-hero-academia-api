@@ -35,6 +35,11 @@
                       "items" : {
                         "$ref" : "#/components/schemas/Characters_Villain"
                       }
+                    },
+                    "heroes" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Hero"
+                      }
                     }
                   }
                 }
