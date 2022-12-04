@@ -111,7 +111,7 @@ _Không gian này sẽ được cập nhật cùng với sự phát triển củ
 
 Yêu cầu có thể được thực hiện với curl hoặc các thư viện trợ giúp khác bằng cách thực hiện theo các lệnh gọi REST thông thường. Ví dụ: đây là cách GET tất cả dữ liệu ký tự:
 
-`curl https://myheroacademia-api.herokuapp.com/characters`
+`curl https://myheroacademia-api.onrender.com/characters`
 
 Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu trúc sau:
 
@@ -158,7 +158,7 @@ Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu 
 
 For data on a single character you can search by id:
 
-`curl https://myheroacademia-api.herokuapp.com/characters/{characterID}`
+`curl https://myheroacademia-api.onrender.com/characters/{characterID}`
 
 Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện và 42 anh hùng.
 
@@ -226,7 +226,7 @@ Phân phối theo Giấy phép MIT. Xem `LICENSE.txt` để có nhiều thông t
 
 [![Portfolio](https://img.shields.io/badge/portfolio-006699?style=for-the-badge&logo=About.me&logoColor=white)](https://joshpattison.com/)
 
-[![ProjectLink](https://img.shields.io/badge/Project_Link-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://myheroacademia-api.herokuapp.com/)
+[![ProjectLink](https://img.shields.io/badge/Project_Link-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://myheroacademia-api.onrender.com)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
