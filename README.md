@@ -111,7 +111,7 @@ _This space will be updated alongside the development of the API._
 
 Requests can be made with curl or other helper libraries by following regular REST calls. For example, here is how to GET the all of the character data:
 
-`curl https://myheroacademia-api.herokuapp.com/characters`
+`curl https://myheroacademia-api.onrender.com/characters`
 
 Calling this resource will respond with an object with the following structure:
 
@@ -158,7 +158,7 @@ Calling this resource will respond with an object with the following structure:
 
 For data on a single character you can search by id:
 
-`curl https://myheroacademia-api.herokuapp.com/characters/{characterID}`
+`curl https://myheroacademia-api.onrender.com/characters/{characterID}`
 
 Currently there is data for 45 students, 46 villains and 42 heroes.
 
@@ -227,7 +227,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-006699?style=for-the-badge&logo=About.me&logoColor=white)](https://joshpattison.com/)
 
-[![ProjectLink](https://img.shields.io/badge/Project_Link-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://myheroacademia-api.herokuapp.com/)
+[![ProjectLink](https://img.shields.io/badge/Project_Link-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://myheroacademia-api.onrender.com/)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
