@@ -493,6 +493,50 @@
             "quirk_description" : "Allows her to convert her stamina into energy and release it in the form of spiral shockwaves.",
             "hero_school": "U.A. High School",
             "class" : "Third year student / The Big 3"
+        },
+        {
+            "id" : "134",
+            "name" : "Inasa Yoarashi",
+            "name_japanese" : "夜嵐 イナサ",
+            "other_names" : ["Gale Force"],
+            "quirk" : "Whirlwind",
+            "quirk_japanese" : "旋風",
+            "quirk_description" : "Allows him to control the wind",
+            "hero_school": "Shiketsu High School",
+            "class" : "First year"
+        },
+        {
+            "id" : "135",
+            "name" : "Camie Utsushimi",
+            "name_japanese" : "現見 ケミィ",
+            "other_names" : ["Maboromicamie"],
+            "quirk" : "Glamour",
+            "quirk_japanese" : "幻惑",
+            "quirk_description" : "Allows her to create illusions that form with a mist-like substance that she emits from her mouth.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
+        },
+        {
+            "id" : "136",
+            "name" : "Seiji Shishikura",
+            "name_japanese" : "肉倉 精児",
+            "other_names" : ["Sisicross"],
+            "quirk" : "Meatball",
+            "quirk_japanese" : "精肉",
+            "quirk_description" : "Allows him to mold others into restrained globs of flesh.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
+        },
+        {
+            "id" : "137",
+            "name" : "Nagamasa Mora",
+            "name_japanese" : "毛原 長昌",
+            "other_names" : ["Chewyee"],
+            "quirk" : "Extend-o-Hair",
+            "quirk_japanese" : "伸毛",
+            "quirk_description" : "Allows him to lengthen and manipulate his body hair.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
         }
 ],
 "villains" : [
