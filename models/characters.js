@@ -5,7 +5,7 @@ function getCharacterByID(id) {
   let searchedCharacter = {};
   let numID = Number(id);
 
-  if (numID > 45) {
+  if (numID > 45 && numID < 134) {
     if (numID > 91) {
       for (let i = 0; i < data.heroes.length; i++) {
         if (numID == data.heroes[i].id) {
