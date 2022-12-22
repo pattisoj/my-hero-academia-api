@@ -94,6 +94,8 @@ describe("Characters API Route", () => {
           throw new Error("missing quirk_japanese property");
         if (!("quirk_description" in res.body.students[i]))
           throw new Error("missing quirk_description property");
+        if (!("hero_school" in res.body.students[i]))
+          throw new Error("missing hero_school property");
         if (!("class" in res.body.students[i]))
           throw new Error("missing class property");
       }
