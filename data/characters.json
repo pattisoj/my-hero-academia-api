@@ -581,6 +581,17 @@
             "quirk_description" : "Grants him the ability to throw objects with incredible accuracy and change their trajectory in mid-air.",
             "hero_school": "Ketsubutsu Academy",
             "class" : ""
+        },
+        {
+            "id" : "142",
+            "name" : "Saiko Intelli",
+            "name_japanese" : "印照 才子",
+            "other_names" : [],
+            "quirk" : "IQ",
+            "quirk_japanese" : "アイキュー",
+            "quirk_description" : "Allows her to temporarily boost her intelligence by drinking tea and closing her eyes. The strength of the intelligence boost depends on the type of tea she drinks.",
+            "hero_school": "Seiai Academy",
+            "class" : "Second year"
         }
 ],
 "villains" : [
