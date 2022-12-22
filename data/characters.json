@@ -537,6 +537,50 @@
             "quirk_description" : "Allows him to lengthen and manipulate his body hair.",
             "hero_school": "Shiketsu High School",
             "class" : "Second year"
+        },
+        {
+            "id" : "138",
+            "name" : "Yo Shindo",
+            "name_japanese" : "真堂揺",
+            "other_names" : ["Grand"],
+            "quirk" : "Vibrate",
+            "quirk_japanese" : "揺らす",
+            "quirk_description" : "Allows him to channel powerful vibrations through any surface he touches with his hands.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "139",
+            "name" : "Tatami Nakagame",
+            "name_japanese" : "中瓶 畳",
+            "other_names" : ["Turtle Neck"],
+            "quirk" : "Telescopic",
+            "quirk_japanese" : "折りたたみ",
+            "quirk_description" : "Allows her to retract her body into herself like a turtle",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "140",
+            "name" : "Shikkui Makabe",
+            "name_japanese" : "真壁 漆喰",
+            "other_names" : ["Mr. Smith"],
+            "quirk" : "Stiffening",
+            "quirk_japanese" : "硬質化",
+            "quirk_description" : "Allows him to make any object he rubs or kneads with his hands extremely hard, although it does not work on living beings.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "141",
+            "name" : "Itejiro Toteki",
+            "name_japanese" : "投擲 射手次郎",
+            "other_names" : ["Boomerang Man"],
+            "quirk" : "Boomerang",
+            "quirk_japanese" : "ブーメラン",
+            "quirk_description" : "Grants him the ability to throw objects with incredible accuracy and change their trajectory in mid-air.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : ""
         }
 ],
 "villains" : [
