@@ -592,6 +592,50 @@
             "quirk_description" : "Allows her to temporarily boost her intelligence by drinking tea and closing her eyes. The strength of the intelligence boost depends on the type of tea she drinks.",
             "hero_school": "Seiai Academy",
             "class" : "Second year"
+        },
+        {
+            "id" : "143",
+            "name" : "Romero Fujimi",
+            "name_japanese" : "藤見 露召呂",
+            "other_names" : [],
+            "quirk" : "Zombie Virus",
+            "quirk_japanese" : "ゾンビ ウィルス",
+            "quirk_description" : "Enables him to create a gas that temporarily turns those who inhale it into zombies. However, he is not immune to his own Quirk.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "144",
+            "name" : "Kashiko Sekigai",
+            "name_japanese" : "赤外 可視子",
+            "other_names" : ["Sensor Girl"],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Allows her to create a holographic page which can be used to locate and detect people.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "145",
+            "name" : "Dadan Tadan",
+            "name_japanese" : "多弾 打弾",
+            "other_names" : ["Lucky Strike"],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Enables his sweat to create a bright flash of light and sound on impact.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "146",
+            "name" : "Habuko Mongoose",
+            "name_japanese" : "万偶数 羽生子",
+            "other_names" : [],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Allows her to paralyze her targets for three seconds by looking them straight in the eye.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
         }
 ],
 "villains" : [
