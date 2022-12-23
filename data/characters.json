@@ -7,6 +7,7 @@
             "quirk" : "One for All",
             "quirk_japanese" : "ワン・フォー・オール",
             "quirk_description" : "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -17,6 +18,7 @@
             "quirk" : "Explosion",
             "quirk_japanese" : "爆破",
             "quirk_description" : "Secretes sweat with nitroglycerin-like properties from his hands and can ignite it on command to produce powerful explosions.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -27,6 +29,7 @@
             "quirk" : "Zero Gravity",
             "quirk_japanese" : "無重力",
             "quirk_description" : "She can make any object weightless by touching them with the pads on her fingertips. Overuse of her Quirk will cause her to suffer from severe nausea.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -37,6 +40,7 @@
             "quirk" : "Engine",
             "quirk_japanese" : "エンジン",
             "quirk_description" : "Super speed and superhuman kicking strength via jet engines in his calves.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -47,6 +51,7 @@
             "quirk" : "Half-Cold Half-Hot",
             "quirk_japanese" : "半冷半燃",
             "quirk_description" : "Enables him to generate ice from the right side of his body and fire from the left.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -57,6 +62,7 @@
             "quirk" : "Hardening",
             "quirk_japanese" : "硬化",
             "quirk_description" : "Enables him to harden his body.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -67,6 +73,7 @@
             "quirk" : "Frog",
             "quirk_japanese" : "蛙",
             "quirk_description" : "Gives her frog-like abilities such as enhanced swimming and jumping, sticking to and climbing up walls, and a long prehensile tongue.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -77,6 +84,7 @@
             "quirk" : "Creation",
             "quirk_japanese" : "創造",
             "quirk_description" : "Enables her the ability to create any non-biological object from the lipids stored in her body as long as she knows its molecular structure.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -87,6 +95,7 @@
             "quirk" : "Pop Off",
             "quirk_japanese" : "もぎもぎ",
             "quirk_description" : "He grows many small, highly adhesive grape-like balls on his head that he can remove and use as weapons. He can also use the balls as his personal trampolines, as they bounce off his body instead of sticking to him.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -97,6 +106,7 @@
             "quirk" : "Electrification",
             "quirk_japanese" : "帯電",
             "quirk_description" : "Enables him the ability to absorb and emit electricity.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -107,6 +117,7 @@
             "quirk" : "Earphone Jack",
             "quirk_japanese" : "イヤホンジャック",
             "quirk_description" : "Enables her to plug her extremely long earlobes into objects to hear minuscule sounds and vibrations from her surroundings or channel the sound of her own heartbeat in the form of sonic attacks.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -117,6 +128,7 @@
             "quirk" : "Dark Shadow",
             "quirk_japanese" : "黒影",
             "quirk_description" : "Enables him to manifest and control a sentient shadow monster from his body that grows more powerful in the dark.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -127,6 +139,7 @@
             "quirk" : "Acid",
             "quirk_japanese" : "酸",
             "quirk_description" : "Enables her to secrete an acidic fluid from her body.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -137,6 +150,7 @@
             "quirk" : "Navel Laser",
             "quirk_japanese" : "ネビルレーザー",
             "quirk_description" : "Enables him to fire a laser blast from his belly button.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -147,6 +161,7 @@
             "quirk" : "Dupli-Arms",
             "quirk_japanese" : "複製腕",
             "quirk_description" : "Enables him to grow individual body organs at the tips of the four webbed tentacles growing from his shoulders.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -157,6 +172,7 @@
             "quirk" : "Tape",
             "quirk_japanese" : "テープ",
             "quirk_description" : "Enables him to shoot cellophane tape from the tape dispenser-like organs on his elbows.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -167,6 +183,7 @@
             "quirk" : "Tail",
             "quirk_japanese" : "尻尾",
             "quirk_description" : "Grants him a thick prehensile tail.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -177,6 +194,7 @@
             "quirk" : "Anivoice",
             "quirk_japanese" : "生き物ボイス",
             "quirk_description" : "Allows him to talk to animals.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -187,6 +205,7 @@
             "quirk" : "Sugar Rush",
             "quirk_japanese" : "シュガードープ",
             "quirk_description" : "Enhances his physical strength at the cost of his cognitive functions whenever he consumes sugar. ",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -197,6 +216,7 @@
             "quirk" : "Invisibility",
             "quirk_japanese" : "透明化",
             "quirk_description" : "Makes her entire body invisible and gives her the ability to refract light.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-A"
         },
         {
@@ -207,6 +227,7 @@
             "quirk" : "Copy",
             "quirk_japanese" : "コピー",
             "quirk_description" : "Allows him to temporarily duplicate and use another person's Quirk by simply touching them. He can store four Quirks, but can only activate one at a time.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -217,6 +238,7 @@
             "quirk" : "Large Fists",
             "quirk_japanese" : "大拳",
             "quirk_description" : "Enables her to enlarge her fists.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -227,6 +249,7 @@
             "quirk" : "Vines",
             "quirk_japanese" : "ツル",
             "quirk_description" : "Gives her a head of vines instead of hair that she can extend and use in combat.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -237,6 +260,7 @@
             "quirk" : "Steel",
             "quirk_japanese" : "スティール",
             "quirk_description" : "Gives him the ability to turn his skin to steel.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -247,6 +271,7 @@
             "quirk" : "Softening",
             "quirk_japanese" : "柔化",
             "quirk_description" : "Enables him to soften anything that he touches.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -257,6 +282,7 @@
             "quirk" : "Twin Impact",
             "quirk_japanese" : "ツインインパクト",
             "quirk_description" : "At the site of an initial impact he can create a second impact, which he can activate anytime.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -267,6 +293,7 @@
             "quirk" : "Weld",
             "quirk_japanese" : "溶接",
             "quirk_description" : "Allows him to physically connect anything he touches.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -277,6 +304,7 @@
             "quirk" : "Solid Air",
             "quirk_japanese" : "空気凝固",
             "quirk_description" : "Enables him to solidify air into a wall or platform.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -287,6 +315,7 @@
             "quirk" : "Gyrate",
             "quirk_japanese" : "旋回",
             "quirk_description" : "Allows him to rotate any part of his body at incredibly high speeds, similarly to a drill.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -297,6 +326,7 @@
             "quirk" : "Cemedine",
             "quirk_japanese" : "セメダイン",
             "quirk_description" : "Enables him to excrete a glue-like liquid from seven eyeholes on his glue dispenser-shaped head.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -307,6 +337,7 @@
             "quirk" : "Poltergeist",
             "quirk_japanese" : "ポルターガイスト",
             "quirk_description" : "Grants her the ability to telekinetically manipulate objects around her.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -317,6 +348,7 @@
             "quirk" : "Beast",
             "quirk_japanese" : "ビースト",
             "quirk_description" : "Grants him the ability to transform into a monstrous beast.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -327,6 +359,7 @@
             "quirk" : "Size",
             "quirk_japanese" : "サイズ",
             "quirk_description" : "Enables her to change the size of any object she interacts with.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -337,6 +370,7 @@
             "quirk" : "Scales",
             "quirk_japanese" : "鱗",
             "quirk_description" : "Enables him to form scales on his body for combat and other purposes. He can also shoot the scales.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -347,6 +381,7 @@
             "quirk" : "Mushroom",
             "quirk_japanese" : "キノコ",
             "quirk_description" : "Grants her the ability to create spores from her cells, allowing her to grow mushrooms from the surfaces of her surroundings.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -357,6 +392,7 @@
             "quirk" : "Razor Sharp",
             "quirk_japanese" : "刃鋭",
             "quirk_description" : "Grants him the ability to produce large, sharp blades from all over his body.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -367,6 +403,7 @@
             "quirk" : "Horn Cannon",
             "quirk_japanese" : "ホーンホウ",
             "quirk_description" : "Allows her to grow effectively gazelle-like horns on her head and control them.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -377,6 +414,7 @@
             "quirk" : "Lizard Tail Splitter",
             "quirk_japanese" : "トカゲのしっぽ切り",
             "quirk_description" : "Allows her to split her body into several pieces and control them telekinetically.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -387,6 +425,7 @@
             "quirk" : "Black",
             "quirk_japanese" : "黒",
             "quirk_description" : "Grants him the ability to merge into anything that is black-colored and control it.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -397,6 +436,7 @@
             "quirk" : "Comic",
             "quirk_japanese" : "コミック",
             "quirk_description" : "Allows him to manifest different onomatopoeias into reality in the form of katakana.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-B"
         },
         {
@@ -407,6 +447,7 @@
             "quirk" : "Zoom",
             "quirk_japanese" : "ズーム",
             "quirk_description" : "Allows her to zoom her vision to up to 5 kilometers.",
+            "hero_school": "U.A. High School",
             "class" : "Class 1-H"
         },
         {
@@ -417,6 +458,7 @@
             "quirk" : "Brainwashing",
             "quirk_japanese" : "洗脳",
             "quirk_description" : "Allows him to control those who answer his questions.",
+            "hero_school": "U.A. High School",
             "class" : "Origionally - General Course. Transfered to - Hero Course"
         },
         {
@@ -427,6 +469,7 @@
             "quirk" : "Permeation",
             "quirk_japanese" : "透過",
             "quirk_description" : "Allows him to phase his body through anything solid, including the ground itself.",
+            "hero_school": "U.A. High School",
             "class" : "Third year student / The Big 3"
         },
         {
@@ -437,6 +480,7 @@
             "quirk" : "Manifest",
             "quirk_japanese" : "再現",
             "quirk_description" : "Gives him the characteristics and abilities of anything he eats.",
+            "hero_school": "U.A. High School",
             "class" : "Third year student / The Big 3"
         },
         {
@@ -447,7 +491,151 @@
             "quirk" : "Wave Motion",
             "quirk_japanese" : "波動",
             "quirk_description" : "Allows her to convert her stamina into energy and release it in the form of spiral shockwaves.",
+            "hero_school": "U.A. High School",
             "class" : "Third year student / The Big 3"
+        },
+        {
+            "id" : "134",
+            "name" : "Inasa Yoarashi",
+            "name_japanese" : "夜嵐 イナサ",
+            "other_names" : ["Gale Force"],
+            "quirk" : "Whirlwind",
+            "quirk_japanese" : "旋風",
+            "quirk_description" : "Allows him to control the wind",
+            "hero_school": "Shiketsu High School",
+            "class" : "First year"
+        },
+        {
+            "id" : "135",
+            "name" : "Camie Utsushimi",
+            "name_japanese" : "現見 ケミィ",
+            "other_names" : ["Maboromicamie"],
+            "quirk" : "Glamour",
+            "quirk_japanese" : "幻惑",
+            "quirk_description" : "Allows her to create illusions that form with a mist-like substance that she emits from her mouth.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
+        },
+        {
+            "id" : "136",
+            "name" : "Seiji Shishikura",
+            "name_japanese" : "肉倉 精児",
+            "other_names" : ["Sisicross"],
+            "quirk" : "Meatball",
+            "quirk_japanese" : "精肉",
+            "quirk_description" : "Allows him to mold others into restrained globs of flesh.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
+        },
+        {
+            "id" : "137",
+            "name" : "Nagamasa Mora",
+            "name_japanese" : "毛原 長昌",
+            "other_names" : ["Chewyee"],
+            "quirk" : "Extend-o-Hair",
+            "quirk_japanese" : "伸毛",
+            "quirk_description" : "Allows him to lengthen and manipulate his body hair.",
+            "hero_school": "Shiketsu High School",
+            "class" : "Second year"
+        },
+        {
+            "id" : "138",
+            "name" : "Yo Shindo",
+            "name_japanese" : "真堂揺",
+            "other_names" : ["Grand"],
+            "quirk" : "Vibrate",
+            "quirk_japanese" : "揺らす",
+            "quirk_description" : "Allows him to channel powerful vibrations through any surface he touches with his hands.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "139",
+            "name" : "Tatami Nakagame",
+            "name_japanese" : "中瓶 畳",
+            "other_names" : ["Turtle Neck"],
+            "quirk" : "Telescopic",
+            "quirk_japanese" : "折りたたみ",
+            "quirk_description" : "Allows her to retract her body into herself like a turtle",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "140",
+            "name" : "Shikkui Makabe",
+            "name_japanese" : "真壁 漆喰",
+            "other_names" : ["Mr. Smith"],
+            "quirk" : "Stiffening",
+            "quirk_japanese" : "硬質化",
+            "quirk_description" : "Allows him to make any object he rubs or kneads with his hands extremely hard, although it does not work on living beings.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : "Third year"
+        },
+        {
+            "id" : "141",
+            "name" : "Itejiro Toteki",
+            "name_japanese" : "投擲 射手次郎",
+            "other_names" : ["Boomerang Man"],
+            "quirk" : "Boomerang",
+            "quirk_japanese" : "ブーメラン",
+            "quirk_description" : "Grants him the ability to throw objects with incredible accuracy and change their trajectory in mid-air.",
+            "hero_school": "Ketsubutsu Academy",
+            "class" : ""
+        },
+        {
+            "id" : "142",
+            "name" : "Saiko Intelli",
+            "name_japanese" : "印照 才子",
+            "other_names" : [],
+            "quirk" : "IQ",
+            "quirk_japanese" : "アイキュー",
+            "quirk_description" : "Allows her to temporarily boost her intelligence by drinking tea and closing her eyes. The strength of the intelligence boost depends on the type of tea she drinks.",
+            "hero_school": "Seiai Academy",
+            "class" : "Second year"
+        },
+        {
+            "id" : "143",
+            "name" : "Romero Fujimi",
+            "name_japanese" : "藤見 露召呂",
+            "other_names" : [],
+            "quirk" : "Zombie Virus",
+            "quirk_japanese" : "ゾンビ ウィルス",
+            "quirk_description" : "Enables him to create a gas that temporarily turns those who inhale it into zombies. However, he is not immune to his own Quirk.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "144",
+            "name" : "Kashiko Sekigai",
+            "name_japanese" : "赤外 可視子",
+            "other_names" : ["Sensor Girl"],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Allows her to create a holographic page which can be used to locate and detect people.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "145",
+            "name" : "Dadan Tadan",
+            "name_japanese" : "多弾 打弾",
+            "other_names" : ["Lucky Strike"],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Enables his sweat to create a bright flash of light and sound on impact.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
+        },
+        {
+            "id" : "146",
+            "name" : "Habuko Mongoose",
+            "name_japanese" : "万偶数 羽生子",
+            "other_names" : [],
+            "quirk" : "Unnamed",
+            "quirk_japanese" : "",
+            "quirk_description" : "Allows her to paralyze her targets for three seconds by looking them straight in the eye.",
+            "hero_school": "Isamu Academy High School",
+            "class" : ""
         }
 ],
 "villains" : [

@@ -125,6 +125,7 @@ Gọi tài nguyên này sẽ phản hồi với một đối tượng có cấu 
   "quirk": "One for All",
   "quirk_japanese": "ワン・フォー・オール",
   "quirk_description": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+  "hero_school": "U.A. High School",
   "class": "Class 1-A"
   },
   ...],
@@ -160,7 +161,7 @@ For data on a single character you can search by id:
 
 `curl https://myheroacademia-api.onrender.com/characters/{characterID}`
 
-Hiện tại có dữ liệu của 45 học sinh, 46 nhân vật phản diện và 42 anh hùng.
+Hiện tại có dữ liệu của 57 học sinh, 46 nhân vật phản diện và 42 anh hùng.
 
 ### Endpoints
 

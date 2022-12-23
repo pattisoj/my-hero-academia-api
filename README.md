@@ -125,6 +125,7 @@ Calling this resource will respond with an object with the following structure:
   "quirk": "One for All",
   "quirk_japanese": "ワン・フォー・オール",
   "quirk_description": "A transferable Quirk that stockpiles power and grants immense strength, speed, stamina, and durability.",
+  "hero_school": "U.A. High School",
   "class": "Class 1-A"
   },
   ...],
@@ -160,7 +161,7 @@ For data on a single character you can search by id:
 
 `curl https://myheroacademia-api.onrender.com/characters/{characterID}`
 
-Currently there is data for 45 students, 46 villains and 42 heroes.
+Currently there is data for 57 students, 46 villains and 42 heroes.
 
 ### Endpoints
 
