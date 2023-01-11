@@ -1582,5 +1582,33 @@
             "name_japanese" : "緑谷 引子",
             "civilian_description" : "Izuku's mother. She has an unnamed quirk that allows her to draw small objects to her with telekinesis-like power.",
             "type" : "Civilian"
+        },
+        {
+            "id" : "148",
+            "name" : "Kota Izumi",
+            "name_japanese" : "出水 洸汰",
+            "civilian_description" : "A young boy who lost his Hero parents the Water Hose duo to Muscular and was taken in by the Pussycats due to Mandalay being his aunt. His Quirk 'Water Gun' allows him to release a splash of water from his hands.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "149",
+            "name" : "Taneo Tokuda",
+            "name_japanese" : "特田 種男",
+            "civilian_description" : "A freelance journalist who sought out All Might's successor for personal reasons. His Quirk 'Whole-Body Lens' allows him to manifest camera lenses on any part of his body and print the photographs from his chest.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "150",
+            "name" : "Eri",
+            "name_japanese" : "エリ",
+            "civilian_description" : "The young granddaughter of the Shie Hassaikai's former crime boss. Her Quirk 'Rewind' enables her to reverse a living individual's body back to a previous state, allowing her to make them younger, heal them of their injuries, and undo any of their bodily modifications.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "151",
+            "name" : "Rei Todoroki",
+            "name_japanese" : "轟 冷",
+            "civilian_description" : "Endeavor's wife and the mother of their four children. She has a powerful ice Quirk that has yet to be shown.",
+            "type" : "Civilian"
         }
 ]}
