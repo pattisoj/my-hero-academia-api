@@ -1610,5 +1610,40 @@
             "name_japanese" : "轟 冷",
             "civilian_description" : "Endeavor's wife and the mother of their four children. She has a powerful ice Quirk that has yet to be shown.",
             "type" : "Civilian"
+        },
+        {
+            "id" : "152",
+            "name" : "Fuyumi Todoroki",
+            "name_japanese" : "轟 冬美",
+            "civilian_description" : "Shoto's older sister. She works as an elementary school teacher and has an ice Quirk like her mother.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "153",
+            "name" : "",
+            "name_japanese" : "",
+            "civilian_description" : "",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "154",
+            "name" : "Natsuo Todoroki",
+            "name_japanese" : "轟 夏雄",
+            "civilian_description" : "Shoto's older brother. He is a university student majoring in medicine and has an ice Quirk like his mother.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "155",
+            "name" : "Hiroshi Tameda",
+            "name_japanese" : "為田 浩",
+            "civilian_description" : "Endeavor's loyal fan. Hiroshi is rather supportive of Endeavor, notably when he spoke out to the public that they still need to believe in Endeavor for protecting society from powerful villains like High-End.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "156",
+            "name" : "David Shield",
+            "name_japanese" : "デヴィット・シールド",
+            "civilian_description" : "David Shield is a scientist at I-Island, All Might's old friend, and the father of Melissa Shield.",
+            "type" : "Civilian"
         }
 ]}
