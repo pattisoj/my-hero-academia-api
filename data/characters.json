@@ -1645,5 +1645,40 @@
             "name_japanese" : "デヴィット・シールド",
             "civilian_description" : "David Shield is a scientist at I-Island, All Might's old friend, and the father of Melissa Shield.",
             "type" : "Civilian"
+        },
+        {
+            "id" : "157",
+            "name" : "Melissa Shield",
+            "name_japanese" : "メリッサ・シールド",
+            "civilian_description" : "Melissa is the Quirkless daughter of David Shield.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "158",
+            "name" : "Katsuma Shimano",
+            "name_japanese" : "島乃 活真",
+            "civilian_description" : "A little boy living on Nabu Island. His Quirk 'Cell Activation' allows its user to activate the cells in anyone's body through touch which increases regeneration, recovery time, and improves their physical condition.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "159",
+            "name" : "Mahoro Shimano",
+            "name_japanese" : "島乃 真幌",
+            "civilian_description" : "A little girl living on Nabu Island who is Katsuma's older sister. Her Quirk 'Hologram' allows her to create holograms of anything she wishes.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "160",
+            "name" : "Rody Soul",
+            "name_japanese" : "ロディ ソウル",
+            "civilian_description" : "His Quirk 'Soul' manifests as a small, bird-like animal named Pino, who changes facial expressions based on how Rody is feeling due to a link to his soul. Rody is also a resident of Otheon.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "161",
+            "name" : "Pino",
+            "name_japanese" : "ピノ",
+            "civilian_description" : "A small, bird-like animal who changes facial expressions based on how Rody is feeling due to a link to his soul.",
+            "type" : "Civilian"
         }
 ]}
