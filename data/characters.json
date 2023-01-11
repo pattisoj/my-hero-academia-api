@@ -1578,9 +1578,9 @@
 "other" : [
         {
             "id" : "147",
-            "name" : "",
-            "name_japanese" : "",
-            "civilian_description" : "",
+            "name" : "Inko Midoriya",
+            "name_japanese" : "緑谷 引子",
+            "civilian_description" : "Izuku's mother. She has an unnamed quirk that allows her to draw small objects to her with telekinesis-like power.",
             "type" : "Civilian"
         }
 ]}
