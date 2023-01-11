@@ -1574,4 +1574,13 @@
             "quirk_description" : "Allows her to weaponize her fire-like hair.",
             "affiliation" : "Other - Pro Hero and one of over thirty sidekicks who work at the Endeavor Agency"
         }
-    ]}
+    ],
+"other" : [
+        {
+            "id" : "147",
+            "name" : "",
+            "name_japanese" : "",
+            "civilian_description" : "",
+            "type" : "Civilian"
+        }
+]}
