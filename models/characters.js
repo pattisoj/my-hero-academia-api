@@ -5,25 +5,27 @@ function getCharacterByID(id) {
   let searchedCharacter = {};
   let numID = Number(id);
 
-  if (numID > 45 && numID < 134) {
-    if (numID > 91) {
-      for (let i = 0; i < data.heroes.length; i++) {
-        if (numID == data.heroes[i].id) {
-          searchedCharacter = data.heroes[i];
-        }
-      }
-    } else {
-      for (let i = 0; i < data.villains.length; i++) {
-        if (numID == data.villains[i].id) {
-          searchedCharacter = data.villains[i];
-        }
-      }
+  for (let i = 0; i < data.students.length; i++) {
+    if (numID == data.students[i].id) {
+      searchedCharacter = data.students[i];
     }
-  } else {
-    for (let i = 0; i < data.students.length; i++) {
-      if (numID == data.students[i].id) {
-        searchedCharacter = data.students[i];
-      }
+  }
+
+  for (let i = 0; i < data.villains.length; i++) {
+    if (numID == data.villains[i].id) {
+      searchedCharacter = data.villains[i];
+    }
+  }
+
+  for (let i = 0; i < data.heroes.length; i++) {
+    if (numID == data.heroes[i].id) {
+      searchedCharacter = data.heroes[i];
+    }
+  }
+
+  for (let i = 0; i < data.other.length; i++) {
+    if (numID == data.other[i].id) {
+      searchedCharacter = data.other[i];
     }
   }
 
