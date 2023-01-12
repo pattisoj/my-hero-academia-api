@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/pattisoj/my-hero-academia-api?style=flat-square)
 ![MIT License](https://img.shields.io/github/license/pattisoj/my-hero-academia-api?style=flat-square)
 
-_This README was translated into Vietnamese by [KimLong1234567](https://github.com/KimLong1234567). Last translation (November 17th 2022)_
+_This README was translated into Vietnamese by [KimLong1234567](https://github.com/KimLong1234567). Last translation (November 17th 2022), final update (January 12th 2023)._
 
 <details>
 <summary>Table of contents</summary>
