@@ -164,6 +164,33 @@ describe("Characters API Route", () => {
     }
   });
 
+  it("has correct structure for other", function (done) {
+    request(app)
+      .get("/characters")
+      .set("Accept", "application/json")
+      .expect("Content-Type", /json/)
+      .expect(hasCorrectStructure)
+      .expect(200, done);
+
+    function hasCorrectStructure(res) {
+      for (i = 0; res.body.other.length > i; i++) {
+        if (!("id" in res.body.other[i]))
+          throw new Error("missing id property");
+        if (!("name" in res.body.other[i]))
+          throw new Error("missing name property");
+        if (!("name_japanese" in res.body.other[i]))
+          throw new Error("missing name_japanese property");
+        if (!("type" in res.body.other[i]))
+          throw new Error("missing type property");
+
+        if (res.body.other[i].type == "Civilian") {
+          if (!("civilian_description" in res.body.other[i]))
+            throw new Error("missing civilian_description property");
+        }
+      }
+    }
+  });
+
   it("has correct structure for one {id}", function (done) {
     request(app)
       .get("/characters/1")

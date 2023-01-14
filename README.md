@@ -153,6 +153,15 @@ Calling this resource will respond with an object with the following structure:
   "quirk_description" : "Gives him powerful pyrokinetic abilities. He is immune to other flames, and can easily control the shape and temperature of the blaze as well.",
   "affiliation" : "Top Hero"
   },
+  ...],
+  "other" : [
+  {
+  "id" : "147",
+  "name" : "Inko Midoriya",
+  "name_japanese" : "緑谷 引子",
+  "civilian_description" : "Izuku's mother. She has an unnamed quirk that allows her to draw small objects to her with telekinesis-like power.",
+  "type" : "Civilian"
+  },
   ...]
 }
 ```
@@ -161,7 +170,7 @@ For data on a single character you can search by id:
 
 `curl https://myheroacademia-api.onrender.com/characters/{characterID}`
 
-Currently there is data for 57 students, 46 villains and 42 heroes.
+Currently there is data for 57 students, 46 villains, 42 heroes and 15 civilians.
 
 ### Endpoints
 
@@ -169,6 +178,7 @@ Currently there is data for 57 students, 46 villains and 42 heroes.
   - /students
   - /villains
   - /heroes
+  - /other
   - /{characterID}
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
@@ -188,6 +198,7 @@ Currently there is data for 57 students, 46 villains and 42 heroes.
   - [x] Villains
   - [x] Pro Heroes
   - [ ] Other
+    - [x] Civilians
 - [ ] Episode Information
   - [ ] Main
   - [ ] Movies

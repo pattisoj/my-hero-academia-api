@@ -1574,4 +1574,111 @@
             "quirk_description" : "Allows her to weaponize her fire-like hair.",
             "affiliation" : "Other - Pro Hero and one of over thirty sidekicks who work at the Endeavor Agency"
         }
-    ]}
+    ],
+"other" : [
+        {
+            "id" : "147",
+            "name" : "Inko Midoriya",
+            "name_japanese" : "緑谷 引子",
+            "civilian_description" : "Izuku's mother. She has an unnamed quirk that allows her to draw small objects to her with telekinesis-like power.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "148",
+            "name" : "Kota Izumi",
+            "name_japanese" : "出水 洸汰",
+            "civilian_description" : "A young boy who lost his Hero parents the Water Hose duo to Muscular and was taken in by the Pussycats due to Mandalay being his aunt. His Quirk 'Water Gun' allows him to release a splash of water from his hands.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "149",
+            "name" : "Taneo Tokuda",
+            "name_japanese" : "特田 種男",
+            "civilian_description" : "A freelance journalist who sought out All Might's successor for personal reasons. His Quirk 'Whole-Body Lens' allows him to manifest camera lenses on any part of his body and print the photographs from his chest.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "150",
+            "name" : "Eri",
+            "name_japanese" : "エリ",
+            "civilian_description" : "The young granddaughter of the Shie Hassaikai's former crime boss. Her Quirk 'Rewind' enables her to reverse a living individual's body back to a previous state, allowing her to make them younger, heal them of their injuries, and undo any of their bodily modifications.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "151",
+            "name" : "Rei Todoroki",
+            "name_japanese" : "轟 冷",
+            "civilian_description" : "Endeavor's wife and the mother of their four children. She has a powerful ice Quirk that has yet to be shown.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "152",
+            "name" : "Fuyumi Todoroki",
+            "name_japanese" : "轟 冬美",
+            "civilian_description" : "Shoto's older sister. She works as an elementary school teacher and has an ice Quirk like her mother.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "153",
+            "name" : "",
+            "name_japanese" : "",
+            "civilian_description" : "",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "154",
+            "name" : "Natsuo Todoroki",
+            "name_japanese" : "轟 夏雄",
+            "civilian_description" : "Shoto's older brother. He is a university student majoring in medicine and has an ice Quirk like his mother.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "155",
+            "name" : "Hiroshi Tameda",
+            "name_japanese" : "為田 浩",
+            "civilian_description" : "Endeavor's loyal fan. Hiroshi is rather supportive of Endeavor, notably when he spoke out to the public that they still need to believe in Endeavor for protecting society from powerful villains like High-End.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "156",
+            "name" : "David Shield",
+            "name_japanese" : "デヴィット・シールド",
+            "civilian_description" : "David Shield is a scientist at I-Island, All Might's old friend, and the father of Melissa Shield.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "157",
+            "name" : "Melissa Shield",
+            "name_japanese" : "メリッサ・シールド",
+            "civilian_description" : "Melissa is the Quirkless daughter of David Shield.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "158",
+            "name" : "Katsuma Shimano",
+            "name_japanese" : "島乃 活真",
+            "civilian_description" : "A little boy living on Nabu Island. His Quirk 'Cell Activation' allows its user to activate the cells in anyone's body through touch which increases regeneration, recovery time, and improves their physical condition.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "159",
+            "name" : "Mahoro Shimano",
+            "name_japanese" : "島乃 真幌",
+            "civilian_description" : "A little girl living on Nabu Island who is Katsuma's older sister. Her Quirk 'Hologram' allows her to create holograms of anything she wishes.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "160",
+            "name" : "Rody Soul",
+            "name_japanese" : "ロディ ソウル",
+            "civilian_description" : "His Quirk 'Soul' manifests as a small, bird-like animal named Pino, who changes facial expressions based on how Rody is feeling due to a link to his soul. Rody is also a resident of Otheon.",
+            "type" : "Civilian"
+        },
+        {
+            "id" : "161",
+            "name" : "Pino",
+            "name_japanese" : "ピノ",
+            "civilian_description" : "A small, bird-like animal who changes facial expressions based on how Rody is feeling due to a link to his soul.",
+            "type" : "Civilian"
+        }
+]}

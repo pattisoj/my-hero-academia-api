@@ -1,9 +1,9 @@
 {
   "openapi" : "3.0.0",
   "info" : {
-    "version" : "1.1.1",
+    "version" : "1.2.0",
     "title" : "My Hero Academia API",
-    "description" : "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nIn it's current state it has the data for 57 students, 46 villains and 42 heroes. The data is name and quirk focused and it's structure can be seen below.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
+    "description" : "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nIn it's current state it has the data for 57 students, 46 villains, 42 heroes and 15 civilians. The data is name and quirk focused and it's structure can be seen below.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
   },
   "servers" : [ {
     "url" : "https://myheroacademia-api.onrender.com"
@@ -117,6 +117,32 @@
                     "heroes" : {
                       "items" : {
                         "$ref" : "#/components/schemas/Characters_Hero"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/characters/other" : {
+      "get" : {
+        "tags" : [ "Endpoints" ],
+        "summary" : "Get all Other Characters.",
+        "description" : "Returns an object of all Other Characters.",
+        "responses" : {
+          "200" : {
+            "description" : "Successfully returned all other characters.",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "object",
+                  "properties" : {
+                    "other" : {
+                      "items" : {
+                        "$ref" : "#/components/schemas/Characters_Civilian"
                       }
                     }
                   }
@@ -283,6 +309,32 @@
           "affiliation" : {
             "type" : "string",
             "example" : "Top Hero"
+          }
+        }
+      },
+      "Characters_Civilian" : {
+        "type" : "object",
+        "required" : [ "id", "name", "name_japanese", "civilian_description", "type" ],
+        "properties" : {
+          "id" : {
+            "type" : "integer",
+            "example" : 147
+          },
+          "name" : {
+            "type" : "string",
+            "example" : "Inko Midoriya"
+          },
+          "name_japanese" : {
+            "type" : "string",
+            "example" : "緑谷 引子"
+          },
+          "civilian_description" : {
+            "type" : "string",
+            "example" : "Izuku's mother. She has an unnamed quirk that allows her to draw small objects to her with telekinesis-like power."
+          },
+          "type" : {
+            "type" : "string",
+            "example" : "Civilian"
           }
         }
       }
