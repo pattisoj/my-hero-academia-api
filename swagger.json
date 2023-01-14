@@ -3,7 +3,7 @@
   "info" : {
     "version" : "1.2.0",
     "title" : "My Hero Academia API",
-    "description" : "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nIn it's current state it has the data for 57 students, 46 villains, 42 heroes and . The data is name and quirk focused and it's structure can be seen below.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
+    "description" : "The My Hero Academia API is fan-made and aims to catalog all things my hero\nacademia. This includes Characters, Episodes (including Films and OVAs) and\nManga. It was created to help users discover resources, consume them via\nHTTP requests, and interact with them in whatever way makes sense.\n\nIn it's current state it has the data for 57 students, 46 villains, 42 heroes and 15 civilians. The data is name and quirk focused and it's structure can be seen below.\n\nThis API and page are currently a work in progress. \nIf you would like to see the source code in it's current state head over to this API's [GitHub Repository](https://github.com/pattisoj/my-hero-academia-api).\n"
   },
   "servers" : [ {
     "url" : "https://myheroacademia-api.onrender.com"
