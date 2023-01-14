@@ -19,6 +19,11 @@ router.get("/heroes", function (req, res, next) {
   res.json(data.heroes);
 });
 
+/* GET all other characters. */
+router.get("/other", function (req, res, next) {
+  res.json(data.other);
+});
+
 /* GET character by ID */
 router.get("/:id", function (req, res) {
   let searchedID = req.params.id;
